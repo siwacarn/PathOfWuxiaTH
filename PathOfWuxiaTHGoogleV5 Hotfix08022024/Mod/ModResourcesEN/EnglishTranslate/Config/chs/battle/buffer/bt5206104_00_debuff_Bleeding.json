@@ -1,0 +1,1 @@
+bt5206104_00_debuff_Bleeding	Secret Claw Marks	Wounds left by Corpse Zombie's sneaky attack, HP -5% each turn.	Bleeding。	debuff_hp	Negative	5	0	{ "BufferRootNode" : [ { "BufferEventNode" : 40, [ { "BufferSequenceNode" : [ { "BufferPropertyAction" : 4010, 4, -5.00000} , { "BufferTimesAction" : 2, 1}  ]}  ]}  ]} 

@@ -1,0 +1,1 @@
+bt1312501_07_buff_Resurgence08	Ideal Way	Restores 10% HP and Qi when attacking and reflects 10% damage when attacked.		buff_mp	None	1	0	{ "BufferRootNode" : [ { "BufferEventNode" : 230, [ { "BufferPropertyAction" : 9007, 1, 10.00000} , { "BufferPropertyAction" : 9008, 1, 10.00000} , { "BufferPropertyAction" : 9001, 1, 10.00000}  ]}  ]} 

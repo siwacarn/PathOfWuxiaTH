@@ -1,0 +1,13 @@
+ac9000101_07	ความสำเร็จในการกลับบ้านช่วงปีใหม่	0	1	begin_trait12_tianfuyibin
+ac9000102_00	ผสมผสานความสุภาพและศิลปะการต่อสู้: ได้รับเกียรติให้เป็นลูกศิษย์ผู้ยิ่งใหญ่และเป็นลูกศิษย์ที่สง่างามไปพร้อม ๆ กัน	0	1	
+ac9000102_03	นักวิชาการระดับปริญญาโท: สำเร็จวิชาพิเศษทั้ง 7 วิชาในปีแรก	0	0	begin_trait13_shuchong
+ac9000104_00	ความสำเร็จที่ไร้คู่แข่ง	0	0	begin_trait11_juantuzhonglai
+ac9000201_07	จุดสิ้นสุดของ Ren Xia: สำเร็จการศึกษาปีที่สองในศาลา	0	0	begin_trait15_qiurenderen
+ac9000202_00	เก่งทั้งกิจการพลเรือนและทหาร ได้รับเกียรติเป็นลูกศิษย์รอบด้านและเป็นลูกศิษย์สง่าในปีที่สองพร้อมๆ กัน	0	1	
+ac9000202_02	ฉันเป็นแบบอย่าง: จดหมายทั้งหมดเพื่อช่วยฝึกอบรมนักศึกษาได้กรอกเรียบร้อยแล้ว	10	0	
+ac9000202_03	Return to Dust: หนังสือทุกเล่มในชุด Bandits and Wrecks เสร็จสมบูรณ์แล้ว	10	0	
+ac9000202_04	กระแสสงคราม: ยันต์เสือถูกตะครุบได้สำเร็จในชีวประวัติงานเลี้ยงครอบครัวของซ่างกวน	10	0	
+ac9000202_05	การหลบหนีที่แคบ: ทำภารกิจคุ้มกัน Wu Hao ให้สำเร็จ	10	0	
+ac9000301_10	จุดเริ่มต้นของทุกสิ่ง	50	1	begin_trait16_xiadaoluyuan,begin_trait18_luohanzhili,begin_trait19_bailibenlei,begin_trait20_jianxintongming,begin_trait21_paodingzhiyi,begin_trait22_shihoujiangshi,begin_trait23_jiaoruoyoulong,begin_trait24_jianshuzhuanjing,begin_trait25_tuifazhuanjing,begin_trait26_jianfazhuanjing,begin_trait27_daofazhuanjing,begin_trait28_changbingzhuanjing,begin_trait29_duanbingzhuanjing
+ac9000302_01	ชีวิตหลังความตายอันน่าสะพรึงกลัว	10	0	
+ac9000302_06	ผู้คนไม่ได้อยู่คนเดียว	10	0	

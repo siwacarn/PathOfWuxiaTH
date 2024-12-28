@@ -1,0 +1,1083 @@
+100001	文本	มีด
+100002	文本	ดาบ
+100003	文本	ปืน
+100004	文本	ติด
+100005	文本	ถุงมือ
+100006	文本	ขยะ
+10001d	文本	ขอบแห่งการเกิด การดำรงอยู่ ที่ยากที่คนธรรมดาจะค้นพบ
+10001n	文本	คนชายขอบ
+10002d	文本	นรกกำเนิด สิ่งมีชีวิตที่คนส่วนใหญ่กลัว
+10002n	文本	ตาย
+9000000	特效编辑器(共用)	ค้นหา :
+9000001	特效编辑器	รายการการกระทำ
+9000002	特效编辑器	เข้าร่วม
+9000003	特效编辑器	รายการกิจกรรม
+9000004	特效编辑器	รายการเอฟเฟกต์เสียง
+9000005	特效编辑器	เส้นทางเอฟเฟกต์เสียง: {0}
+9000006	特效编辑器	เวลาทริกเกอร์: {0}
+9000007	特效编辑器	รายการเอฟเฟกต์พิเศษ:
+9000008	特效编辑器	เส้นทางเอฟเฟกต์: {0}
+9000009	特效编辑器	จุดลิงก์เอฟเฟกต์พิเศษ:
+9000010	特效编辑器	ชื่อจุดลิงก์เอฟเฟกต์พิเศษ:
+9000011	特效编辑器	ระยะเวลา
+9000012	特效编辑器	ไม่ติดวัตถุแม่
+9000013	特效编辑器	ละเว้นการหมุนของวัตถุหลัก
+9000100	特效编辑器(特效信息)	หมายเลขเอฟเฟกต์พิเศษ:
+9000101	特效编辑器(特效信息)	เพิ่มคำอธิบาย
+9000102	特效编辑器(特效信息)	รายการคำอธิบายเอฟเฟกต์:
+9000103	特效编辑器(特效信息)	อ่านคำอธิบาย
+9000104	特效编辑器(特效信息)	บันทึกคำอธิบาย
+9000200	特效编辑器(共用面版)	เวลาทริกเกอร์: {0}
+9000201	特效编辑器(共用面版)	สีของโหนด:
+9000202	特效编辑器(共用面版)	ลองโทรออก
+9001001	特效编辑器(特效面版)	รายการเอฟเฟกต์พิเศษ:
+9001002	特效编辑器(特效面版)	ขณะนี้ใช้เอฟเฟกต์พิเศษ: {0}
+9001003	特效编辑器(特效面版)	จุดลิงก์เอฟเฟกต์พิเศษ:
+9001004	特效编辑器(特效面版)	จุดลิงก์เอฟเฟกต์ปัจจุบัน: {0}
+9001005	特效编辑器(特效面版)	เปิดตัวเอฟเฟกต์พิเศษ (ติดกับเป้าหมายหากไม่ติดตะขอ)
+9001006	特效编辑器(特效面版)	ระยะเวลา :
+9001007	特效编辑器(特效面版)	ไม่ติดวัตถุแม่
+9001008	特效编辑器(特效面版)	ละเว้นการหมุนของวัตถุหลัก
+9001009	特效编辑器(特效面版)	ไม่ว่าจะสร้างบนเป้าหมาย
+9001010	特效编辑器(特效面版)	เปิดตัวย้อนกลับ (บินกลับจากเป้าหมาย)
+9001011	特效编辑器(特效面版)	สีของโหนด:
+9001012	特效编辑器(特效面版)	พิกัดเอฟเฟกต์พิเศษ:
+9001013	特效编辑器(特效面版)	การหมุนเอฟเฟกต์พิเศษ:
+9001014	特效编辑器(特效面版)	การปรับขนาดเอฟเฟกต์พิเศษ:
+9001015	特效编辑器(特效面版)	จุดลิงค์เป้าหมาย:
+Appellation_Address1_1	一般称谓_敬称_男性玩家	เส้าซี
+Appellation_Address1_2	一般称谓_敬称_女性玩家	นางเอก
+Appellation_Address2_1	一般称谓_生疏_男性玩家	พี่ชาย
+Appellation_Address2_2	一般称谓_生疏_女性玩家	สาว
+Appellation_Address3_1	一般称谓_蔑称_男性玩家	เด็กผู้ชาย
+Appellation_Address3_2	一般称谓_蔑称_女性玩家	เด็กผู้หญิง
+Appellation_Address4_1		ต้นแบบหนุ่ม
+Appellation_Address4_2		สาว
+Appellation_Address5_1		พี่ชาย
+Appellation_Address5_2		น้องสาว
+Appellation_Friend1_1	同辈称谓_正常_男性玩家	พี่ชาย
+Appellation_Friend1_2	同辈称谓_正常_女性玩家	สาว
+Appellation_Friend2_1	同辈称谓_幼齿_男性玩家	พี่ชาย
+Appellation_Friend2_2	同辈称谓_幼齿_女性玩家	น้องสาว
+Appellation_Friend3_1	同辈称谓_吊儿郎当_男性玩家	น้องชาย
+Appellation_Friend3_2	同辈称谓_吊儿郎当_女性玩家	สาว
+Appellation_Friend4_1	同辈称谓_情人1_男性玩家	พี่ชาย
+Appellation_Friend4_2	同辈称谓_情人1_女性玩家	น้องสาว
+Appellation_Friend5_1	同辈称谓_情人2_男性玩家	พี่ชาย
+Appellation_Friend5_2	同辈称谓_情人2_女性玩家	ลูกชาย
+Appellation_Junior1_1	同门称谓_学长姐称呼_男性玩家	น้องชาย
+Appellation_Junior1_2	同门称谓_学长姐称呼_女性玩家	น้องสาวรุ่นน้อง
+Appellation_Senior1_1	同门称谓_学弟妹称呼_男性玩家	พี่ชายคนโต
+Appellation_Senior1_2	同门称谓_学弟妹称呼_女性玩家	พี่สาวคนโต
+BattleLiberatedState_Force_Counter	必定反击	ก็ต้องสู้กลับ.
+BattleLiberatedState_Force_Critical	必定爆击	การโจมตีแบบคริติคอลอย่างแน่นอน
+BattleLiberatedState_Force_Dodge	必定闪避	ต้องหลบ.
+BattleLiberatedState_Force_Hit	必定命中	ตีแน่นอน
+BattleLiberatedState_Force_Parry	必定招架	ต้องปัดป้อง
+BattleLiberatedState_InfiniteAction	无限行动	การกระทำที่ไม่ จำกัด
+BattleLiberatedState_Invincible	气血无限	พลังงานและเลือดที่ไม่มีที่สิ้นสุด
+BattleLiberatedState_MoveAgain	再次移动	ย้ายอีกครั้ง
+BattleLiberatedState_No_Consumption	真气无限	พลังงานที่ไม่มีที่สิ้นสุด
+BattleLiberatedState_One_Shot	一击必杀	ตีหนึ่งฆ่า
+BattleNegativeState_Bind	缚身	มัดหนัก {0}
+BattleNegativeState_Bleeding	流血	เลือดออกหนัก {0}
+BattleNegativeState_Burn	灼伤	การเผาไหม้อย่างรุนแรง {0}
+BattleNegativeState_Confusion	迷茫	สับสน {0} หนักมาก
+BattleNegativeState_Dazzle	目眩	หนักอึ้ง {0}
+BattleNegativeState_Dislocation	错骨	น้ำหนักกระดูกผิด {0}
+BattleNegativeState_Enervation	散功	ซานกง {0} หนัก
+BattleNegativeState_Exhaustion	脱力	น้ำหนักที่ออกแรง {0}
+BattleNegativeState_Frostbite	寒伤	อาการบาดเจ็บสาหัสจากความเย็น {0}
+BattleNegativeState_Injury	外伤	การบาดเจ็บสาหัส{0}
+BattleNegativeState_Internal_Injury	内伤	การบาดเจ็บสาหัสภายใน {0}
+BattleNegativeState_Poison	中毒	พิษร้ายแรง {0}
+BattleNegativeState_Shock	震慑	กระแทกอย่างรุนแรง {0}
+BattleNegativeState_Vulnerability	破甲	เจาะเกราะ{0}หนัก
+BattlePositiveState_Blockade	卸劲	ยกเลิกการโหลดน้ำหนัก {0}
+BattlePositiveState_Concentration	专注	มุ่งเน้นไปที่ {0}
+BattlePositiveState_Eagle_Vision	隼目	เหยี่ยว {0} หนัก
+BattlePositiveState_Evasion	迅捷	รวดเร็ว {0} หนักหน่วง
+BattlePositiveState_Guard	坚守	ยึดติดกับ {0}
+BattlePositiveState_Insight	识破	ดูผ่าน {0}
+BattlePositiveState_Invigoration	归元	กุ้ยหยวน {0} น้ำหนัก
+BattlePositiveState_Light_Step	飞步	บินหนัก {0}
+BattlePositiveState_Macrocosmic_Orbit	大周天流转	การไหลเวียนของ Great Zhoutian {0} หนักมาก
+BattlePositiveState_Microcosmic_Orbit	小周天流转	การไหลเวียนของ Zhoutian น้อย {0} หนักมาก
+BattlePositiveState_Onslaught	强攻	การโจมตีที่รุนแรง {0}
+BattlePositiveState_Regeneration	聚气	กำลังรวบรวมน้ำหนัก {0}
+BattlePositiveState_Rejuvenation	凝神	มีสมาธิ {0}
+BattlePositiveState_Repel	驱除	ขับไล่น้ำหนัก {0}
+BattlePositiveState_Vitalization	化气	น้ำหนักแก๊ส {0}
+BattleProperty_Counter_Rate	反击率	อัตราการโต้กลับ
+BattleProperty_Critical_Rate	暴击率	อัตราการโจมตีคริติคอล
+BattleProperty_Dodge_Rate	闪避率	อัตราการหลบหลีก
+BattleProperty_Force_Counter	必反	จะต้องกบฏ
+BattleProperty_Force_Critical	必爆	จะต้องระเบิด.
+BattleProperty_Force_Dodge	必闪	ต้องแฟลช
+BattleProperty_Force_Hit	必中	จะเข้าแล้ว
+BattleProperty_Force_Parry	必招架	ต้องปัดป้อง
+BattleProperty_Hit_Rate	命中率	อัตราการเข้าชม
+BattleProperty_Invincible	反无	ต่อต้านไม่มีอะไร
+BattleProperty_No_Consumption	归一	การทำให้เป็นมาตรฐาน
+BattleProperty_One_Shot	一击必杀	ตีหนึ่งฆ่า
+BattleProperty_Parry_Rate	招架率	อัตราปัดป้อง
+BattleRestrictedState_Crippled	断筋	ซี่โครงหัก
+BattleRestrictedState_Daze	晕眩	อาการวิงเวียนศีรษะ
+BattleRestrictedState_Dyspnea	气滞	ฉีเมื่อยล้า
+BattleRestrictedState_Fear	恐惧	กลัว
+BattleRestrictedState_Immobility	定身	ตั้งกาย
+BattleRestrictedState_No_Counter	无法反击	ไม่สามารถต่อสู้กลับได้
+BattleRestrictedState_No_Critical	无法爆击	ไม่สามารถโจมตีแบบคริติคอลได้
+BattleRestrictedState_No_Dodge	无法闪避	ไม่สามารถหลบเลี่ยงได้
+BattleRestrictedState_No_Parry	无法招架	ปัดป้องไม่ได้
+BattleRestrictedState_Seal	封技	ทักษะการปิดผนึก
+Battle_Menu_Attack	攻击	จู่โจม
+Battle_Menu_Item	物品	สิ่ง
+Battle_Menu_Move	移动	เคลื่อนไหว
+Battle_Menu_Rest	休息	พักผ่อน
+Battle_TargetArea_Fan	攻击范围	ภาค
+Battle_TargetArea_Line	攻击范围	เส้นตรง
+Battle_TargetArea_Ring	攻击范围	แหวน
+Description_Dex	灵巧说明	คำแนะนำอันชาญฉลาด
+Description_Spi	精神说明	คำแนะนำทางจิตวิญญาณ
+Description_Str	力量说明	คำอธิบายพลังงาน
+Description_Vit	体质说明	รายละเอียดทางกายภาพ
+DevelopProperty_Brave	胆识	ความกล้าหาญ
+DevelopProperty_Brave_1	胆识1级	ความกล้า ระดับ 1
+DevelopProperty_Brave_2	胆识3级	ความกล้า ระดับ 3
+DevelopProperty_Brave_3	胆识3级	ความกล้า ระดับ 3
+DevelopProperty_Brave_4	胆识4级	ความกล้า ระดับ 4
+DevelopProperty_Brave_5	胆识5级	ความกล้า ระดับ 5
+DevelopProperty_Calligraphy	书	หนังสือ
+DevelopProperty_Chess	棋	หมากรุก
+DevelopProperty_Courage	胆试	กล้าที่จะลอง
+DevelopProperty_Courage_1	胆试1级	การทดสอบความกล้า ระดับ 1
+DevelopProperty_Courage_2	胆试2级	การทดสอบความกล้า ระดับ 2
+DevelopProperty_Courage_3	胆试3级	การทดสอบความกล้า ระดับ 3
+DevelopProperty_Courage_4	胆试4级	การทดสอบความกล้าระดับ 4
+DevelopProperty_Courage_5	胆试5级	การทดสอบความกล้าระดับ 5
+DevelopProperty_Cultivated	修养	การฝึกอบรม
+DevelopProperty_Cultivated_1	修养1级	การเพาะปลูกระดับ 1
+DevelopProperty_Cultivated_2	修养2级	การเพาะปลูกระดับ 2
+DevelopProperty_Cultivated_3	修养3级	การเพาะปลูกระดับ 3
+DevelopProperty_Cultivated_4	修养4级	การเพาะปลูกระดับ 4
+DevelopProperty_Cultivated_5	修养5级	การเพาะปลูกระดับ 5
+DevelopProperty_Emotion	感性	ทางอารมณ์
+DevelopProperty_Emotion_1	感性1级	ความรู้สึกระดับ 1
+DevelopProperty_Emotion_2	感性3级	ความรู้สึกระดับ 3
+DevelopProperty_Emotion_3	感性3级	ความรู้สึกระดับ 3
+DevelopProperty_Emotion_4	感性4级	ความรู้สึกระดับ 4
+DevelopProperty_Emotion_5	感性5级	ความรู้สึกระดับ 5
+DevelopProperty_Gardening	花	ดอกไม้
+DevelopProperty_Insight	洞察	ข้อมูลเชิงลึก
+DevelopProperty_Insight_1	洞察1级	ความเข้าใจระดับ 1
+DevelopProperty_Insight_2	洞察2级	ความเข้าใจระดับ 2
+DevelopProperty_Insight_3	洞察3级	ความเข้าใจระดับ 3
+DevelopProperty_Insight_4	洞察4级	ความเข้าใจระดับ 4
+DevelopProperty_Insight_5	洞察5级	ความเข้าใจระดับ 5
+DevelopProperty_Liquor	酒	สุรา
+DevelopProperty_Logic	理性	เหตุผล
+DevelopProperty_Logic_1	理性1级	ความมีเหตุผลระดับ 1
+DevelopProperty_Logic_2	理性2级	ความมีเหตุผลระดับ 2
+DevelopProperty_Logic_3	理性3级	เหตุผลระดับ 3
+DevelopProperty_Logic_4	理性4级	ความมีเหตุผลระดับ 4
+DevelopProperty_Logic_5	理性5级	ความมีเหตุผลระดับ 5
+DevelopProperty_Painting	画	จิตรกรรม
+DevelopProperty_Reflex	机敏	เตือน
+DevelopProperty_Reflex_1	机敏1级	การแจ้งเตือนระดับ 1
+DevelopProperty_Reflex_2	机敏2级	การแจ้งเตือนระดับ 2
+DevelopProperty_Reflex_3	机敏3级	การแจ้งเตือนระดับ 3
+DevelopProperty_Reflex_4	机敏4级	การแจ้งเตือนระดับ 4
+DevelopProperty_Reflex_5	机敏5级	การแจ้งเตือนระดับ 5
+DevelopProperty_Resolute	坚毅	ความเพียร
+DevelopProperty_Resolute_1	坚毅1级	ความแข็งแกร่งระดับ 1
+DevelopProperty_Resolute_2	坚毅2级	ความแข็งแกร่งระดับ 2
+DevelopProperty_Resolute_3	坚毅3级	ความแข็งแกร่งระดับ 3
+DevelopProperty_Resolute_4	坚毅4级	ความแข็งแกร่งระดับ 4
+DevelopProperty_Resolute_5	坚毅5级	ความแข็งแกร่งระดับ 5
+DevelopProperty_SixArts	六艺	หกศิลปะ
+DevelopProperty_SixTraits	六轴	หกแกน
+DevelopProperty_Vibrant	爽朗	สหาย
+DevelopProperty_Vibrant_1	爽朗1级	ร่าเริงระดับ 1
+DevelopProperty_Vibrant_2	爽朗2级	ร่าเริงระดับ 2
+DevelopProperty_Vibrant_3	爽朗3级	ร่าเริงระดับ 3
+DevelopProperty_Vibrant_4	爽朗4级	ร่าเริงระดับ 4
+DevelopProperty_Vibrant_5	爽朗5级	ร่าเริงระดับ 5
+DevelopProperty_Willpower	毅力	จะ
+DevelopProperty_Willpower_1	毅力1级	ความเพียรพยายามระดับที่ 1
+DevelopProperty_Willpower_2	毅力2级	ความอดทนระดับ 2
+DevelopProperty_Willpower_3	毅力3级	ความอดทนระดับ 3
+DevelopProperty_Willpower_4	毅力4级	ความเพียรพยายามระดับที่ 4
+DevelopProperty_Willpower_5	毅力5级	ความเพียรพยายามระดับ 5
+DevelopProperty_Zither	琴	เปียโน
+Elective_Condition	选课_授课条件	เงื่อนไขการเรียน
+Elective_CourseIntroduction	选课_课程简介	คำอธิบายหลักสูตร
+Elective_CourseName	选课_课程名称	ศึกษาศิลปะการต่อสู้
+Elective_Grade_Advanced	选课_阶段_进阶	ขั้นสูง
+Elective_Grade_Basis	选课_阶段_基础	ฐาน
+Elective_Skills	选课_可习得招式	การเคลื่อนไหวที่เรียนรู้ได้
+Elective_TeacherName	选课_授课教师	ผู้เชี่ยวชาญ
+Element_Earth	土属性	คุณสมบัติของดิน
+Element_Fire	火属性	คุณลักษณะไฟ
+Element_Metal	金属性	ความเป็นโลหะ
+Element_None	无属性	ไม่มีคุณลักษณะ
+Element_Water	水属性	คุณสมบัติของน้ำ
+Element_Wood	木属性	คุณสมบัติของไม้
+Equip_Accessories	装备_饰	ตกแต่ง
+Equip_Armor	装备_衣	เสื้อผ้า
+Equip_CurrentAccessories	装备_当前饰品	เครื่องประดับเล็กๆ น้อยๆ ปัจจุบัน
+Equip_CurrentArmor	装备_当前衣物	เสื้อผ้าปัจจุบัน
+Equip_CurrentWeapon	装备_当前武器	อาวุธปัจจุบัน
+Equip_Select	装备_选择装备	เลือกอุปกรณ์
+Equip_Weapon	装备_武	วู
+Evaluation_Fail	未达成评价任务	ไม่มีข้อขัดข้อง
+Favorability_Rank_01		เห็นครั้งเดียว
+Favorability_Rank_02		การรู้จักกันแบบสบาย ๆ
+Favorability_Rank_03		การตอบแทนซึ่งกันและกัน
+Favorability_Rank_04		เพื่อนร่วมชั้นและเพื่อน
+Favorability_Rank_05		มีใจเดียวกัน
+Favorability_Rank_06		หวงแหนซึ่งกันและกัน
+Favorability_Rank_07		คู่หมั้นของจินหลาน
+Favorability_Rank_Sp		รักแรก
+Forge_Condition	装备条件	เงื่อนไขอุปกรณ์
+Forge_Level	锻造难度	หล่อหลอมความยากลำบาก
+General_Area	范围	ขอบเขต
+General_Armor	防具	เกราะ
+General_BladeAndSword	刀剑	ดาบ
+General_Cancel	取消	ยกเลิก
+General_CD	冷却回合	รอบคูลดาวน์
+General_Condition	条件	เงื่อนไข
+General_Confirm	确定	แน่นอน
+General_Consumption	消耗	บริโภค
+General_Effect	效果	ผล
+General_Equipment	装备	อุปกรณ์
+General_Favorability	友好度	ดี
+General_Fight	搏击	ต่อสู้
+General_Formula	行囊页签_秘笈/图纸/配方	กระดาษหนังสือ
+General_FourArts	四艺	สี่ศิลปะ
+General_FourAttribute	四维	ทักษะพื้นฐาน
+General_FourAttributePoint	四维点数	คะแนนทักษะพื้นฐาน
+General_FourTraits	四轴	บุคลิกภาพ
+General_Herb	药材	วัสดุยา
+General_Hold	持有	ถือ
+General_HoldCount	持有数量	ปริมาณที่ถืออยู่
+General_Hurt	伤害	อันตราย
+General_Information	交友	ทำความรู้จักกับเพื่อน
+General_Introduction	介绍	แนะนำ
+General_Inventory	行囊	กระเป๋าเดินทาง
+General_LongAndShort	长短兵	ทหารยาวและสั้น
+General_MartialArts	武学	ศิลปะการต่อสู้
+General_Medicine	药品	ยา
+General_New	新	ใหม่
+General_Notebook	记事本	สมุดบันทึก
+General_PassCondition	达成条件	ตรงตามเงื่อนไข
+General_PassReward	达成奖励	บรรลุผลตอบแทน
+General_Preference	喜好	การตั้งค่า
+General_Present	礼品	ของขวัญ
+General_Props	道具	อุปกรณ์ประกอบฉาก
+General_Qimen	奇门	ฉีเหมิน
+General_Quest	任务	งาน
+General_Range	射程	พิสัย
+General_RemainingRound	剩余回合	รอบที่เหลือ
+General_SixArts	六艺	หกศิลปะ
+General_SixTraits	六轴	หกแกน
+General_Special	特级	พิเศษ
+General_Status	状态	สถานะ
+General_Sumbit	是	ใช่
+General_Talent	天赋	ความสามารถพิเศษ
+Inventory_Empty	空无一物	ขณะนี้ไม่มีอะไรในกระเป๋าเป้สะพายหลัง
+JoyButtonPs4Id00	按键设置手把按键1	□
+JoyButtonPs4Id01	按键设置手把按键2	╳
+JoyButtonPs4Id02	按键设置手把按键3	○
+JoyButtonPs4Id03	按键设置手把按键4	△
+JoyButtonPs4Id04	按键设置手把按键5	ปุ่มคันซ้าย/LB
+JoyButtonPs4Id05	按键设置手把按键6	ปุ่มติดขวา/RB
+JoyButtonPs4Id06	按键设置手把按键7	ทริกเกอร์ซ้าย/LT
+JoyButtonPs4Id07	按键设置手把按键8	ทริกเกอร์ขวา/RT
+JoyButtonPs4Id08	按键设置手把按键9	แบ่งปัน
+JoyButtonPs4Id09	按键设置手把按键10	ตัวเลือก
+JoyButtonPs4Id10	按键设置手把按键11	แท่งอนาล็อกซ้าย/LS
+JoyButtonPs4Id11	按键设置手把按键12	แท่งอนาล็อกขวา/RS
+JoyButtonPs4Id12	按键设置手把按键13	ปุ่มจับ 13
+JoyButtonPs4Id13	按键设置手把按键14	ปุ่มจับ 14
+JoyButtonPs4Id14	按键设置手把按键15	ปุ่มจับ 15
+JoyButtonPs4Id15	按键设置手把按键16	ปุ่มจับ 16
+JoyButtonXBoxId00	按键设置手把按键1	ก
+JoyButtonXBoxId01	按键设置手把按键2	บี
+JoyButtonXBoxId02	按键设置手把按键3	เอ็กซ์
+JoyButtonXBoxId03	按键设置手把按键4	ย
+JoyButtonXBoxId04	按键设置手把按键5	ปุ่มคันซ้าย/LB
+JoyButtonXBoxId05	按键设置手把按键6	ปุ่มติดขวา/RB
+JoyButtonXBoxId06	按键设置手把按键7	เมนู
+JoyButtonXBoxId07	按键设置手把按键8	กลับ
+JoyButtonXBoxId08	按键设置手把按键9	แท่งอนาล็อกซ้าย/LS
+JoyButtonXBoxId09	按键设置手把按键10	แท่งอนาล็อกขวา/RS
+JoyButtonXBoxId10	按键设置手把按键11	ปุ่มจับ 11
+JoyButtonXBoxId11	按键设置手把按键12	ปุ่มจับ 12
+JoyButtonXBoxId12	按键设置手把按键13	ปุ่มจับ 13
+JoyButtonXBoxId13	按键设置手把按键14	ปุ่มจับ 14
+JoyButtonXBoxId14	按键设置手把按键15	ปุ่มจับ 15
+JoyButtonXBoxId15	按键设置手把按键16	ปุ่มจับ 16
+Level_01	阶段1	ระดับหนึ่ง
+Level_02	阶段2	การสั่งซื้อครั้งที่สอง
+Level_03	阶段3	ระดับที่สาม
+Level_04	阶段4	ระดับที่สี่
+Level_05	阶段5	ระดับที่ห้า
+Level_06	阶段6	ระดับที่หก
+Level_07	阶段7	ระดับที่เจ็ด
+Level_08	阶段8	ระดับที่แปด
+Level_09	阶段9	ระดับที่เก้า
+Level_10	阶段10	ระดับที่สิบ
+LoadingInterface0101	读取介面TIP	น้ำตกและน้ำพุลอยอยู่บนควันเพื่อค้นหาอัศวินที่ซ่อนอยู่พลังงานสีม่วงจากกระถางธูปถามคำถามเกี่ยวกับหัวใจขณะถือดาบ
+LoadingInterface0102	读取介面TIP	อัตราการตีคริติคอล ปัดป้อง หลบหลีก และตีโต้จะได้มาจากการเปรียบเทียบค่าที่สอดคล้องกันของฝ่ายรุกและฝ่ายรับ
+LoadingInterface0103	读取介面TIP	เมื่อการโจมตีคริติคอลเกิดขึ้น การโจมตีนั้นจะโดนอย่างแน่นอนโดยไม่คำนึงถึงอัตราการหลบหลีก
+LoadingInterface0104	读取介面TIP	หลังจากที่อักขระสี่แกนเพิ่มขึ้นถึงค่าที่กำหนด สามารถรับลักษณะอักขระต่างๆ ได้
+LoadingInterface0105	读取介面TIP	เมื่อโจมตี หากร่างกายห้าองค์ประกอบของคุณเองยับยั้งเป้าหมาย มันจะสร้างความเสียหายเพิ่มเติม
+LoadingInterface0106	读取介面TIP	เมื่อความชื่นชอบของเพื่อนร่วมนิกายถึงค่าที่กำหนด กิจกรรมการอัพเกรดความชื่นชอบจะถูกกระตุ้น
+LoadingInterface0107	读取介面TIP	เมื่อเหตุการณ์การอัพเกรดความชอบเกิดขึ้น หากตัวละครไม่ตรงตามข้อกำหนด โอกาสในการดำเนินการจะไม่ถูกใช้
+LoadingInterface0108	读取介面TIP	การให้ของขวัญกับเพื่อนนักเรียนจะไม่เสียโอกาสในการดำเนินการ
+LoadingInterface0109	读取介面TIP	เมื่อฝึกฝนเทคนิคการเคลื่อนไหวทางจิต หากคุณถึงเกณฑ์ทักษะพื้นฐานที่ต้องการ คุณจะได้รับผลลัพธ์สองเท่าโดยใช้ความพยายามเพียงครึ่งเดียว
+LoadingInterface0110	读取介面TIP	นอกจากการฝึกฝนแล้ว คุณยังต้องปลูกฝังอารมณ์ให้ทันเวลาด้วย หากคุณมีอาการซึมเศร้า ประสิทธิผลของการฝึกฝนจะลดลงอย่างมาก
+LoadingInterface0111	读取介面TIP	ปลูกฝังศิลปะทั้งสี่ไม่เพียงแต่มีโอกาสคว้ารางวัลชนะเลิศในงาน Four Arts Conference เท่านั้น แต่ยังอาจพบกับคนแปลกหน้าและของแปลก ๆ
+LoadingInterface0113	读取介面TIP	การลงจากภูเขาไม่ได้ดีไปกว่าการฝึกศิลปะการต่อสู้ในศาลา คุณต้องใส่ใจกับ Qi เลือดและพลังงานที่แท้จริงของตัวเองอยู่เสมอและใช้ยาให้ตรงเวลาเพื่อรักษาอาการบาดเจ็บ
+LoadingInterface0115	读取介面TIP	ในระหว่างการต่อสู้ ระยะการตอบโต้ขั้นพื้นฐานของแต่ละหน่วยคือสองช่องสี่เหลี่ยม
+LoadingInterface0117	读取介面TIP	มกราคมแบ่งออกเป็น 5 รอบ ได้แก่ ช่วงต้น ต้น กลาง ปลาย และล่าง แต่ละรอบมีโอกาสดำเนินการ 2 ครั้ง
+LoadingInterface0120	读取介面TIP	หากการโจมตีต่ำเกินไปเมื่อทำการโจมตี อาจทำให้เกิดการพลาดและลดความเสียหายได้
+LoadingInterface0121	读取介面TIP	เมื่อโจมตีจากด้านข้าง อัตราการปัดป้องและอัตราการหลบหลีกของเป้าหมายจะลดลง เมื่อโจมตีจากด้านหลัง การลดลงจะยิ่งใหญ่ยิ่งขึ้น
+MartialArts_CurrentMantra	武学_当前心法	สภาพจิตใจปัจจุบัน
+MartialArts_CurrentSkill	武学_当前技能	ทักษะในปัจจุบัน
+MartialArts_PracticeEffect	修练效果	ผลการปฏิบัติ
+MartialArts_RunEffect	运行效果	ผลการวิ่ง
+MartialArts_SetMantra	武学_配置心法	ดำเนินวิธีแห่งจิตใจ
+MartialArts_SetSkill	武学_配置技能	กำหนดค่าการเคลื่อนไหว
+Medicine_Browse	浏览持有药品	เรียกดูยาที่ถือ
+Mission001_MissionStart	使用Node：【动作/任务/开始任务】开始新任务时	กิจกรรม "{0}" เริ่มต้นขึ้น!
+Mission002_MissionUpdate	使用Node：【动作/任务/接下一个任务or结束任务】更新任务阶段时	อัปเดตกิจกรรม "{0}" แล้ว!
+Mission003_MissionComplete	使用Node：【动作/任务/接下一个任务or结束任务】且该任务有勾选“是否显示任务完成提示”时	กิจกรรม "{0}" เสร็จสิ้นแล้ว!
+Number_01	数字1	หนึ่ง
+Number_02	数字2	สอง
+Number_03	数字3	สาม
+Number_04	数字4	สี่
+Number_05	数字5	ห้า
+Number_06	数字6	หก
+Number_07	数字7	เจ็ด
+Number_08	数字8	แปด
+Number_09	数字9	เก้า
+Number_10	数字10	สิบ
+Number_11	数字11	สิบเอ็ด
+Number_12	数字12	สิบสอง
+NurturanceProperty_Brave	胆识	ความกล้าหาญ
+NurturanceProperty_Calligraphy	书	หนังสือ
+NurturanceProperty_Chess	棋	หมากรุก
+NurturanceProperty_Cultivated	修养	การฝึกอบรม
+NurturanceProperty_Dex	灵巧	ความชำนาญ
+NurturanceProperty_Emotion	精神	วิญญาณ
+NurturanceProperty_Exp	经验	ประสบการณ์
+NurturanceProperty_Money	金钱	เงิน
+NurturanceProperty_Painting	画	จิตรกรรม
+NurturanceProperty_Resolute	坚毅	ความเพียร
+NurturanceProperty_Spi	意志	จะ
+NurturanceProperty_Str	力量	ความแข็งแกร่ง
+NurturanceProperty_Sum	四维总和	ผลรวมของทักษะพื้นฐาน
+NurturanceProperty_Vibrant	爽朗	สหาย
+NurturanceProperty_Vit	体魄	ร่างกาย
+NurturanceProperty_Zither	琴	เปียโน
+Property_Affiliation		แนวโน้มของค่าย
+Property_Attack	攻击	จู่โจม
+Property_Block	格档	ปิดกั้น
+Property_Body	架势	ท่าทาง
+Property_Contribution		บริจาคให้กับศาลา Xiayin
+Property_Counter	反击	ตอบโต้
+Property_Crit	暴击率	อัตราการโจมตีคริติคอล
+Property_Critical	暴击	การโจมตีแบบคริติคอล
+Property_Cure	治愈	รักษา
+Property_Defense	防御	ป้องกัน
+Property_Dodge	闪避	หลบ
+Property_Element	功体	กงติ
+Property_Element_Resistance	五行抗性	ความต้านทานห้าองค์ประกอบ
+Property_Element_Strengthen	五行强化	ห้าองค์ประกอบเสริมสร้างความเข้มแข็ง
+Property_Face	面门	ประตูหน้า
+Property_Foot	步法	ฝีเท้า
+Property_Hand	招数	เทคนิค
+Property_Hit	命中	ตี
+Property_HP	气血	ชี่และเลือด
+Property_Level	等级	ระดับ
+Property_Max_HP	最大气血	เลือดสูงสุด
+Property_Max_MP	最大真气	ความมีชีวิตชีวาสูงสุด
+Property_Move	移动格数	จำนวนเซลล์ที่จะย้าย
+Property_MP	真气	โกรธเคือง
+Property_Parry	招架	ปัดป้อง
+PropsCategory101	道具小分类	ถุงมือ
+PropsCategory102	道具小分类	เลกกิ้ง
+PropsCategory103	道具小分类	ดาบ
+PropsCategory104	道具小分类	มีด
+PropsCategory105	道具小分类	ด้ามยาว
+PropsCategory106	道具小分类	ด้ามสั้น
+PropsCategory107	道具小分类	อาวุธที่ซ่อนอยู่
+PropsCategory108	道具小分类	อาวุธคู่
+PropsCategory109	道具小分类	กฎระเบียบพิเศษ
+PropsCategory201	道具小分类	เกราะ
+PropsCategory301	道具小分类	เครื่องประดับ
+PropsCategory401	道具小分类	เคล็ดลับการชกมวย
+PropsCategory402	道具小分类	เคล็ดลับขา
+PropsCategory403	道具小分类	เคล็ดลับการใช้ดาบ
+PropsCategory404	道具小分类	เคล็ดลับทักษะการใช้มีด
+PropsCategory405	道具小分类	เคล็ดลับสำหรับด้ามจับยาว
+PropsCategory406	道具小分类	ปลายแฮนด์สั้น
+PropsCategory407	道具小分类	เคล็ดลับอาวุธที่ซ่อนอยู่
+PropsCategory408	道具小分类	เคล็ดลับเรื่องธรรมะทางจิต
+PropsCategory409	道具小分类	หนังสืออื่นๆ
+PropsCategory411	道具小分类	Boxing Secrets (ศาลาจางจิง)
+PropsCategory412	道具小分类	เคล็ดลับเทคนิคการใช้ขา (Zangjing Pavilion)
+PropsCategory413	道具小分类	ความลับแห่งดาบ (ศาลาจางจิง)
+PropsCategory414	道具小分类	ความลับของเทคนิคดาบ (ศาลา Zangjing)
+PropsCategory415	道具小分类	ความลับมือยาว (ศาลา Zangjing)
+PropsCategory416	道具小分类	ความลับด้ามสั้น (Zangjing Pavilion)
+PropsCategory417	道具小分类	ความลับของอาวุธที่ซ่อนอยู่ (ศาลา Zangjing)
+PropsCategory418	道具小分类	ความลับแห่งธรรมหัวใจ (ศาลาจางจิง)
+PropsCategory419	道具小分类	หนังสืออื่นๆ (ศาลาจางจิง)
+PropsCategory501	道具小分类	น้ำอมฤต
+PropsCategory502	道具小分类	วัสดุยา
+PropsCategory601	道具小分类	อุปกรณ์ประกอบภารกิจหลัก
+PropsCategory602	道具小分类	อุปกรณ์ประกอบฉากงานเพื่อนร่วมทีม
+PropsCategory603	道具小分类	อุปกรณ์ประกอบภารกิจของ Toolman
+PropsCategory604	道具小分类	อุปกรณ์ประกอบภารกิจอื่น ๆ
+PropsCategory701	道具小分类	กู่ฉิน
+PropsCategory702	道具小分类	อุปกรณ์หมากรุก
+PropsCategory703	道具小分类	การประดิษฐ์ตัวอักษร
+PropsCategory704	道具小分类	จิตรกรรม
+PropsCategory705	道具小分类	ดื่ม
+PropsCategory706	道具小分类	ดอกไม้
+PropsCategory707	道具小分类	หนังสือ
+PropsCategory708	道具小分类	โบราณ
+PropsCategory709	道具小分类	ซาติน
+PropsCategory710	道具小分类	ร่มกระดาษ
+PropsCategory711	道具小分类	ด้ามจิ้ว
+PropsCategory712	道具小分类	ขนม
+PropsCategory713	道具小分类	แขน
+PropsCategory714	道具小分类	ชา
+PropsCategory801	道具小分类	การปลอมแปลงภาพวาด
+PropsCategory802	道具小分类	สูตรน้ำอมฤต
+Props_ConditionFail	使用条件不符	เงื่อนไขการใช้งานไม่ตรงกัน
+Reading_NPC_NoBook	没有任何书籍	คุณสามารถกลับมาใหม่ได้ในภายหลังไม่มีหนังสือเล่มใดที่เหมาะกับคุณที่จะอ่านในขณะนี้
+Reading_NPC_Normal	未选择书籍	เลือกหนังสือที่คุณต้องการอ่าน
+Reading_Tab_Mantra	心法	วิธีการทางจิต
+Reading_Tab_MartialArt	武学	ศิลปะการต่อสู้
+Refining_AlchemyFurnace	炼丹炉	เตาเล่นแร่แปรธาตุ
+Refining_Count	炼制数量	เลือกปริมาณการกลั่น
+Refining_DemandRound	炼制需要回合	การกลั่นจะผลัดกัน
+Refining_Herb	所需药材	วัสดุยาที่จำเป็น
+Refining_ResultCount	可炼制数量	ปริมาณที่สามารถกลั่นได้
+Refining_Stove_Idle	闲置中	ไม่ได้ใช้งาน
+Refining_Stove_InProgress	炼制中	การกลั่น
+Repeat_01	重数一	หนักอันหนึ่ง
+Repeat_02	重数二	สองเท่า
+Repeat_03	重数三	สามเท่า
+Repeat_04	重数四	สี่เท่า
+Repeat_05	重数五	ห้าเท่า
+Repeat_06	重数六	ระดับที่หก
+Repeat_07	重数七	ระดับที่เจ็ด
+Repeat_08	重数八	เย้
+Repeat_09	重数九	โคโคโนเอะ
+Repeat_10	重数十	สิบเท่า
+Reward10101_PropsAdd	道具增加	ได้ {0} {1}!
+Reward10102_PropsLose	道具减少	น้อยลง {0} {1}!
+Reward10201_MoneyAdd	金钱增加	รับเงิน {0}!
+Reward10202_MoneyLose	金钱减少	ลดเงิน {0}!
+Reward10301_TeammateJoin	队友增加	{0} เข้าร่วมทีม!
+Reward10302_TeammateLeave	队友减少	{0} ออกจากทีม!
+Reward10401_NotebookAdd	记事本添加内容	Notepad ได้เพิ่มเนื้อหาใหม่!
+Reward20101_PlayerPropertyUp	玩家属性数值提升共用版型	{0} ของคุณเพิ่มพลัง {1}!
+Reward20102_PlayerPropertyDown	玩家属性数值降低共用版型	{0} ของคุณลดลง {1}!
+Reward20103_PlayerHpRecover	玩家气血提升	สุขภาพของคุณได้รับการฟื้นฟู {0} แต้ม!
+Reward20104_PlayerHpLose	玩家气血减少	สุขภาพของคุณลดลง {0} แต้ม!
+Reward20105_PlayerMpRecover	玩家真气提升	พลัง Chi ของคุณฟื้นคืนมา {0} แต้ม!
+Reward20106_PlayerMpLose	玩家真气减少	พลังชี่ของคุณลดลง {0} แต้ม!
+Reward20107_PlayerXiaConceptionRight	玩家阵营值增加	คุณมีความเข้าใจใหม่เกี่ยวกับอัศวิน...
+Reward20108_PlayerXiaConceptionLeft	玩家阵营值减少	คุณมีความเข้าใจใหม่เกี่ยวกับอัศวิน...
+Reward20201_NpcPropertyUp	NPC属性数值提升共用版型	{1} จาก {0} เพิ่มขึ้น {2} แต้ม!
+Reward20202_NpcPropertyDown	NPC属性数值降低共用版型	{1} จาก {0} ลดลง {2} แต้ม!
+Reward20203_NpcHpRecover	NPC气血提升	พลังชีวิตและเลือดของ {0} ได้รับการฟื้นคืนมา {1} แต้ม!
+Reward20204_NpcHpLose	NPC气血减少	พลังชีวิตของ {0} ลดลง {1} แต้ม!
+Reward20205_NpcMpRecover	NPC真气提升	พลังชี่ของ {0} ฟื้นคืนมา {1} แต้ม!
+Reward20206_NpcMpLose	NPC真气减少	พลังชี่ของ {0} ลดลง {1} แต้ม!
+Reward20301_PlayerStrUp	玩家四维“力量”提升	ความแข็งแกร่งของคุณได้รับการฝึกฝนและเพิ่มขึ้น {0} แต้ม!
+Reward20302_PlayerVitUp	玩家四维“体魄”提升	ร่างกายของคุณได้รับการฝึกฝนและปรับปรุงขึ้น {0} คะแนน!
+Reward20303_PlayerDexUp	玩家四维“灵巧”提升	ปรับปรุงความชำนาญของคุณขึ้น {0} แต้ม!
+Reward20304_PlayerSpiUp	玩家四维“意志”提升	เจตจำนงของคุณได้รับการบรรเทาและปรับปรุงขึ้น {0} แต้ม!
+Reward20305_PlayerVibrantUp	玩家四轴“爽朗”提升	คุณจะร่าเริงมากขึ้นและได้รับ {0} คะแนน!
+Reward20306_PlayerCultivatedUp	玩家四轴“修养”提升	คุณได้รับการปลูกฝังและปรับปรุงมากขึ้น {0} แต้ม!
+Reward20307_PlayerResoluteUp	玩家四轴“坚毅”提升	คุณมีความมุ่งมั่นมากขึ้น ได้รับคะแนนเพิ่มขึ้น {0} คะแนน!
+Reward20308_PlayerBraveUp	玩家四轴“胆识”提升	คุณโดดเด่นยิ่งขึ้น รับ {0} คะแนน!
+Reward20309_PlayerZitherUp	玩家四艺“琴”提升	ทักษะการเล่นเปียโนของคุณพัฒนาขึ้น {0} คะแนน!
+Reward20310_PlayerChessUp	玩家四艺“棋”提升	ทักษะหมากรุกของคุณพัฒนาขึ้น เพิ่ม {0} แต้ม!
+Reward20311_PlayerCalligraphyUp	玩家四艺“书”提升	ทักษะการประดิษฐ์ตัวอักษรของคุณดีขึ้น {0} คะแนน!
+Reward20312_PlayerPaintingUp	玩家四艺“画”提升	ทักษะการวาดภาพของคุณพัฒนาขึ้น {0} คะแนน!
+Reward20401_NpcStrUp	NPC四维“力量”提升	ความแข็งแกร่งของ {0} ได้รับการฝึกฝนและปรับปรุงขึ้น {1} แต้ม!
+Reward20402_NpcVitUp	NPC四维“体魄”提升	ร่างกายของ {0} ได้รับการฝึกฝนและปรับปรุงขึ้น {1} คะแนน!
+Reward20403_NpcDexUp	NPC四维“灵巧”提升	ความชำนาญของ {0} ได้รับการฝึกฝนและปรับปรุงขึ้น {1} คะแนน!
+Reward20404_NpcSpiUp	NPC四维“意志”提升	ความตั้งใจของ {0} ได้รับการบรรเทาและปรับปรุงขึ้น {1} แต้ม!
+Reward20405_NpcVibrantUp	NPC四轴“爽朗”提升	{0} มีความร่าเริงมากขึ้น พัฒนาขึ้นอีก {1} แต้ม!
+Reward20406_NpcCultivatedUp	NPC四轴“修养”提升	{0} ได้รับการปลูกฝังและปรับปรุงมากขึ้น {1} แต้ม!
+Reward20407_NpcResoluteUp	NPC四轴“坚毅”提升	{0} มีความมุ่งมั่นและปรับปรุงมากขึ้นโดย {1} คะแนน!
+Reward20408_NpcBraveUp	NPC四轴“胆识”提升	{0} โดดเด่นยิ่งขึ้นและเพิ่ม {1} คะแนน!
+Reward20409_NpcZitherUp	NPC四艺“琴”提升	ทักษะการเล่นเปียโนของ {0} พัฒนาขึ้น พัฒนาขึ้นอีก {1} แต้ม!
+Reward20410_NpcChessUp	NPC四艺“棋”提升	ทักษะการเล่นหมากรุกของ {0} พัฒนาขึ้นอีก {1} แต้ม!
+Reward20411_NpcCalligraphyUp	NPC四艺“书”提升	ทักษะการเขียนพู่กันของ {0} พัฒนาขึ้นอีก {1} คะแนน!
+Reward20412_NpcPaintingUp	NPC四艺“画”提升	ทักษะการวาดภาพของ {0} พัฒนาขึ้น พัฒนาขึ้นอีก {1} แต้ม!
+Reward30101_PlayerLearnSkill	玩家获得新招式	คุณได้เรียนรู้การเคลื่อนไหว "{0}" แล้ว!
+Reward30201_NpcLearnSkill	NPC获得新招式	{0} เรียนรู้การเคลื่อนไหว "{1}" แล้ว!
+Reward30301_PlayerGetSkillExp	玩家获得某招式的经验值	การเคลื่อนไหว "{0}" ของคุณได้รับคะแนนประสบการณ์ {1} คะแนน!
+Reward30401_NpcGetSkillExp	NPC获得某招式的经验值	การเคลื่อนที่ของ {0} "{1}" ได้รับคะแนนประสบการณ์ {2} คะแนน!
+Reward30501_PlayerSkillPowerUp	玩家的某招式被取代	การเคลื่อนไหวของคุณ "{0}" ได้รับการเสริมความแข็งแกร่งแล้ว!
+Reward30601_NpcSkillPowerUp	NPC的某招式被取代	การเคลื่อนไหวของ {0} "{1}" ได้รับการเสริมความแข็งแกร่งแล้ว!
+Reward30701_PlayerLearnMantra	玩家获得新心法	คุณได้เรียนรู้วิธีการทางจิต "{0}" แล้ว!
+Reward30801_NpcLearnMantra	NPC获得新心法	{0} เรียนรู้วิธีการทางจิต "{1}"!
+Reward30901_PlayerGetMantraExp	玩家获得某心法的经验值	วิธีคิดของคุณ "{0}" ได้รับคะแนนประสบการณ์ {1} คะแนน!
+Reward31001_NpcGetMantraExp	NPC获得某心法的经验值	วิธีการทางจิตของ {0} "{1}" ได้รับคะแนนประสบการณ์ {2} คะแนน!
+Reward31101_PlayerMantraPowerUp	玩家的某心法被取代	วิธีการทางจิตของคุณ "{0}" ได้รับการเสริมสร้างความเข้มแข็งแล้ว!
+Reward31201_NpcMantraPowerUp	NPC的某心法被取代	เทคนิคทางจิตของ {0} "{1}" ได้รับการเสริมกำลังแล้ว!
+Reward31301_PlayerLearnUniqueSkill		คุณได้เรียนรู้ทักษะ "{0}" แล้ว! !
+Reward31302_PlayerUniqueSkillPowerUp		ทักษะ "{0}" ของคุณได้รับการปรับปรุงแล้ว! !
+Reward31401_NpcLearnUniqueSkill		{0} เรียนรู้ทักษะพิเศษ "{1}"! !
+Reward31402_NpcUniqueSkillPowerUp		ทักษะพิเศษ "{1}" ของ {0} ได้รับการปรับปรุงแล้ว! !
+Reward31501_PlayerLearnTrait		คุณได้รับคุณสมบัติใหม่ "{0}"!
+Reward31502_PlayerTraitPowerUp		ลักษณะของคุณ "{0}" ได้รับการเสริมความแข็งแกร่งแล้ว!
+Reward31601_NpcLearnTrait		{0} ได้รับคุณลักษณะใหม่ "{1}"!
+Reward31602_NpcTraitPowerUp		คุณลักษณะของ {0} "{1}" ได้รับการเสริมความแข็งแกร่งแล้ว!
+Reward50101_NpcFavorabilityValueUp	NPC友好度小幅提升时	ความประทับใจที่ดีของ {0} ที่มีต่อคุณดีขึ้นเล็กน้อย
+Reward50102_NpcFavorabilityValueUpM	NPC友好度中幅提升时	ความประทับใจที่ดีของ {0} ที่มีต่อคุณดีขึ้นแล้ว!
+Reward50103_NpcFavorabilityValueUpL	NPC友好度大幅提升时	ความประทับใจที่ดีของ {0} ที่มีต่อคุณดีขึ้นมาก!
+Reward50201_NpcFavorabilityLevelUp	NPC友好阶段升级	{0} มิตรภาพของเรากับคุณก้าวไปอีกขั้น!
+Reward50201_NpcFavorabilityValueUpXS		ความชื่นชอบของ {0} ที่มีต่อคุณเพิ่มขึ้นเล็กน้อย
+Reward50202_NpcFavorabilityValueUpS		ความชื่นชอบของ {0} ที่มีต่อคุณเพิ่มขึ้นเล็กน้อย
+Reward50203_NpcFavorabilityValueUpM		ความประทับใจที่ดีของ {0} ที่มีต่อคุณดีขึ้นแล้ว!
+Reward50204_NpcFavorabilityValueUpL		ความประทับใจที่ดีของ {0} ที่มีต่อคุณดีขึ้นอย่างเห็นได้ชัด!
+Reward50205_NpcFavorabilityValueUpXL		ความประทับใจที่ดีของ {0} ที่มีต่อคุณดีขึ้นมาก! !
+Reward50301_NpcPowerLevelUp	队友NPC能力解锁	{0} สามารถให้ความช่วยเหลือเพิ่มเติมแก่คุณได้แล้ว!
+Reward50302_AssistNpcPowerLevelUp	辅助NPC能力解锁	{0} สามารถให้ความช่วยเหลือเพิ่มเติมแก่คุณได้แล้ว!
+Reward50401_PlayerGoodnessUp	玩家获得行善值	คุณจะเป็นเหมือนคนดีมากขึ้น
+Reward50601_FriendshipLover	与好友成为恋人时	คุณและ {0} กลายเป็นคู่รักกันแล้ว!
+Reward60101_GetNewPrescription		คุณสามารถไปที่ Baicao Lu เพื่อปรับแต่ง "{0}" ได้!
+Reward60201_GetNewBlueprint		คุณสามารถไปที่ร้านตีเหล็กเพื่อปลอม "{0}" ได้!
+Reward60301_GetNewBook		คุณสามารถไปที่ศาลาพระคัมภีร์ทิเบตเพื่ออ่าน "{0}" ได้!
+Reward70101_EmotionUp		คุณได้ฟื้นคืนจิตวิญญาณของคุณแล้วเล็กน้อย!
+Reward70102_EmotionUpUp		วิญญาณของคุณฟื้นคืนแล้ว!
+Reward70103_EmotionUpUpUp		วิญญาณของคุณได้รับการฟื้นฟูอย่างมาก!
+Reward70201_EmotionDown		จิตวิญญาณของคุณลดลงเล็กน้อย ...
+Reward70202_EmotionDownDown		จิตวิญญาณของคุณลดลง…
+Reward70203_EmotionDownDownDown		จิตวิญญาณของคุณลดลงอย่างมาก...
+RoundOfTime_1	时间	ต้นเดือน
+RoundOfTime_2	时间	สิบวันแรก
+RoundOfTime_3	时间	กลาง
+RoundOfTime_4	时间	ช้า
+RoundOfTime_5	时间	สิ้นเดือน
+SecondaryInterface0101	选课次级介面字符串	คุณแน่ใจหรือไม่ว่าต้องการรับ {0}
+SecondaryInterface0102	选课次级介面字符串	ขณะนี้คุณไม่ตรงตามข้อกำหนดสำหรับหลักสูตรนี้ โปรดลองอีกครั้งในครั้งต่อไป!
+SecondaryInterface0103	选课介面	ฐาน
+SecondaryInterface0104	选课介面	ขั้นสูง
+SecondaryInterface0105	选课介面	เงื่อนไขการเรียน
+SecondaryInterface0106	选课介面	การเคลื่อนไหวที่เรียนรู้ได้
+SecondaryInterface0107	选课介面	คำอธิบายหลักสูตร
+SecondaryInterface0108	选课介面	ผู้เชี่ยวชาญ
+SecondaryInterface0109	选课介面	ยืนยันการศึกษาของคุณ
+SecondaryInterface0110	选课介面	ยังไม่เปิด
+SecondaryInterface0201	炼药次级介面（确认选项）	คุณแน่ใจหรือไม่ว่าต้องการปรับแต่ง {0} {1}
+SecondaryInterface0202	炼药介面道恒对白	ทำแล้วระวังอย่าเผา...
+SecondaryInterface0203	炼药介面道恒对白	คุณยังไม่ได้ตัดสินใจว่าจะทำยาอะไร? คนนี้ได้แล้ว...(หาว)
+SecondaryInterface0204	炼药介面道恒对白	ต้องระมัดระวังเป็นพิเศษในการสกัดยา...มันลำบากมาก ไว้คราวหน้าจะมาเล่าให้ฟัง
+SecondaryInterface0205	炼药介面	การเล่นแร่แปรธาตุ
+SecondaryInterface0206	炼药介面	การกลั่น
+SecondaryInterface0301	锻造介面确认提示	ปลอมแปลง {0}?
+SecondaryInterface0302	铁匠次级介面锻造条件不符提示	ไม่สามารถปลอมแปลงรายการนี้ได้ในขณะนี้
+SecondaryInterface0311	铁匠钱不够台词1	คุณมีเงินไม่พอกับคุณเหรอ? อย่าทำให้ฉันลำบากใจนะพี่สาว...
+SecondaryInterface0312	铁匠钱不够台词2	แม้ว่าฉันจะเป็นเพื่อนกับคุณ แต่ฉันก็ยังต้องชำระบัญชีเหมือนเดิม...
+SecondaryInterface0321	铁匠锻造能力不足台词1	ทำไม! มันยากเกินไปสำหรับน้องสาวของฉัน! แล้วสร้างอุปกรณ์อื่นๆก่อนล่ะ?
+SecondaryInterface0322	铁匠锻造能力不足台词2	แม้ว่าคุณจะมีพิมพ์เขียวอุปกรณ์นี้ แต่น่าเสียดายที่ทักษะของฉันยังไม่เพียงพอ...
+SecondaryInterface0331	铁匠持有物达上限台词1	คุณเป็นลาหรือเปล่า? ฉันเอาของมาเยอะมาก!
+SecondaryInterface0332	铁匠持有物达上限台词2	ดูสิ คุณไม่เหลืออะไรเลย ขายของแล้วกลับมา
+SecondaryInterface0341	铁匠符合条件台词1	คุณต้องการสร้างสิ่งนี้ใช่ไหม? ปล่อยให้เป็นน้องสาว!
+SecondaryInterface0342	铁匠符合条件台词2	มีวิสัยทัศน์! พี่สาวจะไม่ทำให้คุณผิดหวัง!
+SecondaryInterface0351	铁匠介面文本	ความสามารถในการตีขึ้นรูป
+SecondaryInterface0401	泛用商店的购买确认提示	คุณต้องการที่จะซื้อ?
+SecondaryInterface0402	泛用商店金钱不足提示	เงินไม่พอ!
+SecondaryInterface0403	泛用商店持有数上限提示	จำนวนไอเทมที่เก็บไว้ถึงขีดจำกัดสูงสุดแล้ว!
+SecondaryInterface0404	泛用商店的购买确认提示	เลือกปริมาณการซื้อ
+SecondaryInterface0405	泛用商店文本	จำนวนเงินทั้งหมด
+SecondaryInterface0406	泛用商店文本	เงินที่ถืออยู่
+SecondaryInterface0407	泛用商店文本	ขายหมดแล้ว
+SecondaryInterface0408	泛用商店文本	ต้าเจียงหนานเป่ยผู
+SecondaryInterface0409	当舖介面	โรงจำนำ
+SecondaryInterface0410	当舖介面	ขายแล้ว
+SecondaryInterface0501	装备介面背包里没东西换的提示	ไม่มีอุปกรณ์ทดแทนในกระเป๋าเป้สะพายหลัง
+SecondaryInterface0502	装备品的对象限制叙述	ตัวละครที่สวมใส่ได้:
+SecondaryInterface0503	装备介面	สภาพอุปกรณ์ไม่ตรงกัน!
+SecondaryInterface0511	药品介面服用药品的提示	คุณแน่ใจหรือไม่ว่าต้องการให้ {0} รับ {1}
+SecondaryInterface0512	药品介面使用提示（使用条件不符）	ไอเทมนี้สามารถใช้ได้เฉพาะในการต่อสู้เท่านั้น
+SecondaryInterface0513	药品介面使用提示（战斗中）	ไม่มีสิ่งของเสริมในกระเป๋าเป้สะพายหลัง
+SecondaryInterface0601	战斗结算	กุญแจสำคัญในการออกจากการต่อสู้
+SecondaryInterface0701	招式范围叙述单体	โมโนเมอร์
+SecondaryInterface0702	招式范围叙述直线	หน่วยเชิงเส้น
+SecondaryInterface0703	招式范围叙述扇形	ภาค
+SecondaryInterface0704	招式范围叙述周身	ทั้งร่างกาย
+SecondaryInterface0705	招式范围叙述溅射	สปัตเตอร์ {0} บล็อกไปรอบๆ
+SecondaryInterface0706	招式范围叙述	ตัวมันเอง
+SecondaryInterface0707	招式范围叙述	แหวน
+SecondaryInterface0708	招式范围叙述	เป็นเส้นตรงผ่าน
+SecondaryInterface0801	养成介面交友即将升阶提示	ระดับความชอบในปัจจุบันคือ {0} ซึ่งสามารถอัปเกรดได้
+SecondaryInterface0802	养成介面交友提示	ระดับความชอบในปัจจุบัน {0}
+SecondaryInterface0803	赠送礼物键	ให้ของขวัญ
+SecondaryInterface0804	出游键	การท่องเที่ยว
+SecondaryInterface0805	出游tip01	สามารถเพิ่มค่าความนิยมได้
+SecondaryInterface0806	出游tip02(1~3阶)	วิญญาณ +7
+SecondaryInterface0807	赠送礼物tip01	คุณสามารถให้ของขวัญเพื่อเพิ่มความปรารถนาดีของคุณได้
+SecondaryInterface0808	好友等级	ดี
+SecondaryInterface0809	好友各阶能力	ความสามารถ
+SecondaryInterface0810	好友升阶提示	<color=#FFFF00>ปรับปรุงระดับความชอบของคุณ! </color>
+SecondaryInterface0811	交友介面标签	ไม่อยู่ในตู้.
+SecondaryInterface0812	交友介面标签	ระดับความเป็นมิตรถึงระดับสูงสุดแล้วและไม่จำเป็นต้องเพิ่มขึ้นอีก
+SecondaryInterface0813	出游tip02(4~5阶)	วิญญาณ +10
+SecondaryInterface0814	出游tip02(6~7阶)	วิญญาณ +15
+SecondaryInterface0901	武学介面无技能可替换提示。	ยังไม่มีการเรียนรู้การเคลื่อนไหวที่มีอยู่
+SecondaryInterface0902	武学介面无心法可替换提示	ยังไม่ได้เรียนรู้วิธีที่เป็นประโยชน์
+SecondaryInterface0903	武学介面无心法可替换提示	ไม่สามารถเปลี่ยนท่าทางและเทคนิคทางจิตให้เพื่อนได้
+SecondaryInterface1001	四艺四轴养成指令TIP标题	ผลการวิ่ง
+SecondaryInterface1002	招式养成指令TIP标题	ข้อกำหนดทักษะพื้นฐาน
+SecondaryInterface1003	招式养成指令TIP标题2	ประสบการณ์ที่ได้รับ
+SecondaryInterface1004	招式养成指令TIP标题	ใช้เวลาครึ่งวัน
+SecondaryInterface1005	养成介面设施指令TIP	ฟังก์ชั่นสิ่งอำนวยความสะดวก
+SecondaryInterface1006	习武门槛加速提示	<color=#FD420DFF>ถึงเกณฑ์ศิลปะการต่อสู้แล้ว และความเร็วในการฝึกฝนก็เพิ่มขึ้น</color>
+SecondaryInterface1007	习武门槛减速提示	<color=#43C386FF>ยังไม่ถึงเกณฑ์ในการฝึกศิลปะการต่อสู้ และความเร็วในการฝึกฝนก็ช้าลง</color>
+SecondaryInterface1008	招式威力tip	<color=#FD420DFF>เลื่อนพาวเวอร์ {0}→{1}</color>
+SecondaryInterface1009	招式提升tip	{0}โปรโมต
+SecondaryInterface1010	不消耗时间指令	ไม่ต้องเสียเวลา
+SecondaryInterface1011	指令效果加成中	<color=#FFFF00>โบนัสเพิ่มเติม! </color>
+SecondaryInterface1101	养成介面精神状态提示	<color=#FD420DFF>พลังงาน</color>
+SecondaryInterface1102	养成介面精神状态提示	<color=#CC9933FF> ความเหนื่อยล้าทางร่างกายและจิตใจ เอฟเฟกต์การฝึกฝนลดลง! </color>
+SecondaryInterface1103	养成介面精神状态提示	<color=#43C386FF> เชื่องช้าและผลการฝึกฝนลดลงอย่างมาก! </color>
+SecondaryInterface1104	养成介面精神状态提示	<color=#3B5FECFF>เหนื่อยและรู้สึกถูกครอบงำ! </color>
+SecondaryInterface1105	养成介面效果加乘提示	เอฟเฟกต์การออกกำลังกายเพิ่มขึ้น!
+SecondaryInterface1106	养成介面效果加乘提示	ผลของการฝึกศิลปะการต่อสู้เพิ่มขึ้น!
+SecondaryInterface1107	养成介面效果加乘提示	กำลังเพิ่มเอฟเฟกต์เกม!
+SecondaryInterface1108	养成介面效果加乘提示	เอฟเฟกต์การทำธุระเพิ่มขึ้น!
+SecondaryInterface1109	养成介面效果加乘提示	เวลาโบนัสการอาบน้ำสมุนไพร: {0}
+SecondaryInterface1110	养成介面效果加乘提示	ผลของการออกกำลังกาย ศิลปะการต่อสู้ ความบันเทิง การเดินทางกับเพื่อน และการทำธุระได้รับการปรับปรุง!
+SecondaryInterface1111	养成介面	(มูลค่ารวม: {0})
+SecondaryInterface1201	战斗按键TIP	อุปกรณ์
+SecondaryInterface1202	战斗按键TIP	ยา
+SecondaryInterface1203	战斗按键TIP	รอ
+SecondaryInterface1204	战斗按键TIP	การรับประทานยาจะทำให้การกระทำสิ้นสุดลง
+SecondaryInterface1205	战斗按键TIP	กลม
+SecondaryInterface1206	战斗按键TIP，待机回10％（未移动）～5％（移动後）	ยุติการดำเนินการและฟื้นฟู Qi จำนวนเล็กน้อย
+SecondaryInterface1207	战斗按键TIP	โกรธไม่พอ!
+SecondaryInterface1208	主角特技按键TIP	แปลงร่างกายของตัวเองให้เป็นแอตทริบิวต์ <color=#FF0000>ทอง</color> เมื่อโจมตีหากโจมตีจากด้านหลังจะได้รับการโจมตีแบบคริติคอลอย่างแน่นอนเมื่อโจมตีจากด้านข้างอัตราการโจมตีแบบคริติคอล +25% นาน 1 แอคชั่น
+SecondaryInterface1209	主角特技按键TIP	แปลงร่างกายของตัวเองให้เป็นแอตทริบิวต์ <color=#FF0000>ไม้</color> การโจมตีทั้งหมดนอกเหนือจากการโจมตีแบบคริติคอลจะต้องหลบเลี่ยงเป็นเวลา 1 รอบ
+SecondaryInterface1210	主角特技按键TIP	แปลงพลังงานของร่างกายให้เป็นแอตทริบิวต์ <color=#FF0000>น้ำ</color> ล้างสถานะด้านลบทั้งหมดของตัวเอง ฟื้นฟู Qi และเลือด 15% และ Qi 25%
+SecondaryInterface1211	主角特技按键TIP	แปลงพลังของตนเองเป็นแอตทริบิวต์ <color=#FF0000>ไฟ</color> ความเสียหาย +25% เมื่อโจมตี ต้องปัดป้องเมื่อถูกโจมตี มีผล 1 รอบ
+SecondaryInterface1212	主角特技按键TIP	แปลงร่างกายของตนเองให้เป็นแอตทริบิวต์ <color=#FF0000>Earth</color> อัตราการโต้กลับ +50% ระยะโต้กลับ +1 หากศัตรูโจมตีเพื่อนที่อยู่ในระยะโต้กลับ มีโอกาส 50% ที่จะช่วยเหลือเพื่อนในการโต้กลับ ใช้งานได้ 1 เทิร์น
+SecondaryInterface1213	主角特技按键TIP	ธาตุทั้ง 5 ขัดแย้งกัน
+SecondaryInterface1214	主角特技按键TIP	ขยับไม่ได้!
+SecondaryInterface1215	主角特技按键TIP	คุณไม่สามารถขยับหรือใช้ท่าได้ในขณะที่มึนงง!
+SecondaryInterface1216	主角特技按键TIP	ขาดพลังงานและเลือด!
+SecondaryInterface1217	主角特技按键TIP	จำนวนกริดที่เคลื่อนที่ลดลง!
+SecondaryInterface1218	主角特技按键TIP	ใช้ท่าไม่ได้!
+SecondaryInterface1219	主角特技按键TIP	สามารถเคลื่อนย้ายได้อีก
+SecondaryInterface1220	主角特技按键TIP	ไม่มีเป้าหมายที่เลือกได้ในระยะ
+SecondaryInterface1221	主角特技按键TIP	ไม่สามารถระบุตำแหน่งนี้ได้
+SecondaryInterface1222	上官煦特技名	เยว่เหยาเกเจีย
+SecondaryInterface1223	掷碗展帜TIP	พลังโจมตีฝ่ายเดียวกัน +10% บนสนาม ความเสียหายที่ได้รับ -10%
+SecondaryInterface1224	朔寒征杀TIP	ไม่สนใจระยะการควบคุม (ZOC) ของศัตรูเมื่อเคลื่อนที่ พลังโจมตี +50% พลังโจมตี +50% HP -10% ในแต่ละรอบ เมื่อ HP ต่ำกว่า 60% เพิ่มการโจมตีหนัก 2 ครั้งของคุณเองต่อรอบ
+SecondaryInterface1225	孤关伏兕TIP	พลังโจมตี -50%, พลังโจมตี -20%, อัตราการโจมตีสวนกลับ และพลังโจมตีสวนกลับ +50% พลังงานอันโกรธแค้น -15% ต่อรอบ เมื่อพลังงานอันโกรธแค้นมากกว่า 15% เลือดพลังชีวิต +10% ต่อรอบ
+SecondaryInterface1226	战斗按键文本	เจ้าหน้าที่ทุกคนเตรียมพร้อม
+SecondaryInterface1227	战斗按键文本	ให้บุคลากรทั้งหมดอยู่ในสถานะเตรียมพร้อมและยุติปฏิบัติการ?
+SecondaryInterface1301	战斗（伤害预估TIP）	อันตราย
+SecondaryInterface1302	战斗（伤害预估TIP）	ตี
+SecondaryInterface1303	战斗（伤害预估TIP）	ประมาณพลังงานและเลือดที่เหลืออยู่
+SecondaryInterface1304	战斗（伤害预估TIP）	อัตราการโจมตีคริติคอล
+SecondaryInterface1305	战斗（伤害预估TIP）	อัตราปัดป้อง
+SecondaryInterface1306	战斗（伤害预估TIP）	อัตราการโต้กลับ
+SecondaryInterface1307	背袭提示at伤害面板	โบนัสการโจมตีกลับ
+SecondaryInterface1308	侧袭提示at伤害面板	โบนัสการโจมตีด้านข้าง
+SecondaryInterface1309	伤害预估	รักษาฝี
+SecondaryInterface1401	招式说明TIP（武学介面与战斗）	ใช้พลังงาน
+SecondaryInterface1402	招式说明TIP（武学介面与战斗）	ย้ายพลัง
+SecondaryInterface1403	招式说明TIP（武学介面与战斗）	ระยะโจมตี
+SecondaryInterface1404	招式说明TIP（武学介面与战斗）	ขอบเขตวัตถุ
+SecondaryInterface1405	招式说明TIP（武学介面与战斗）	รอบคูลดาวน์
+SecondaryInterface1406	招式说明TIP（武学介面与战斗）	ผล
+SecondaryInterface1501	包包无礼品	ไม่มีของขวัญในกระเป๋าเป้สะพายหลัง
+SecondaryInterface1502	赠送确认介面	คุณแน่ใจหรือไม่ว่าต้องการบริจาค {0} ให้กับ {1}
+SecondaryInterface1601	贩售介面文本	ไม่มีสินค้าขาย
+SecondaryInterface1602	贩售介面文本	เลือกปริมาณการขาย
+SecondaryInterface1603	贩售介面文本	คุณแน่ใจหรือไม่ว่าต้องการขาย {0} {1} หน่วย?
+SecondaryInterface1604	贩售介面文本	จำนวนตัวเลือกถึงขีดจำกัดสูงสุดแล้ว
+SecondaryInterface1701	传书介面无法接取	ไม่ตรงตามเงื่อนไขและไม่สามารถยอมรับได้!
+SecondaryInterface1702	传书介面没有传书	ขณะนี้ไม่มีการโอน
+SecondaryInterface1703	传书介面接受二级介面	คุณแน่ใจหรือว่ายอมรับ?
+SecondaryInterface1704	传书介面师门任务	ส่ง
+SecondaryInterface1705	传书介面日常任务	มอบความไว้วางใจ
+SecondaryInterface1706	传书介面紧急任务	ด่วน
+SecondaryInterface1707	传书介面打工任务	ทำธุระ
+SecondaryInterface1708	传书介面邀约任务	เชิญ
+SecondaryInterface1709	传书介面任务日程半日	ครึ่งวัน
+SecondaryInterface1710	传书介面任务日程一日	วันหนึ่ง
+SecondaryInterface1711	传书介面来信人	นักเขียนจดหมาย
+SecondaryInterface1712	传书介面所需日程	กำหนดการที่จำเป็น
+SecondaryInterface1713	传书介面承接条件	เงื่อนไขการยอมรับ
+SecondaryInterface1714	传书介面完成奖励	รางวัลสำเร็จ
+SecondaryInterface1715	传书介面期限	ระยะ
+SecondaryInterface1716	传书介面传书分页标题	ส่งจดหมาย
+SecondaryInterface1717	传书介面记录分页标题	บันทึก
+SecondaryInterface1718	传书介面任务日程不费时	ไม่เสียเวลา
+SecondaryInterface1801	战斗状态介面文本	วิธีการทางจิต
+SecondaryInterface1802	战斗状态介面文本	แขน
+SecondaryInterface1803	战斗状态介面文本	เสื้อผ้า
+SecondaryInterface1804	战斗状态介面文本	เครื่องประดับ
+SecondaryInterface1805	战斗状态介面文本	{0} หนัก
+SecondaryInterface1806	战斗状态介面	อัตราต่อรองสุดท้าย:
+SecondaryInterface1807	战斗状态介面	ย้าย
+SecondaryInterface1901	好感阶级	ความโปรดปรานระดับแรก
+SecondaryInterface1902	好感阶级	ความชื่นชอบระดับ 2
+SecondaryInterface1903	好感阶级	ความประทับใจที่ดีระดับสาม
+SecondaryInterface1904	好感阶级	ความชื่นชอบระดับ 4
+SecondaryInterface1905	好感阶级	ความประทับใจที่ดีระดับห้า
+SecondaryInterface1906	好感阶级	ความประทับใจที่ดีระดับหก
+SecondaryInterface1907	好感阶级	ความชื่นชอบระดับเจ็ด
+SecondaryInterface2001	整备介面文本	คุณแน่ใจหรือไม่ว่าต้องการสิ้นสุดการบำรุงรักษา
+SecondaryInterface2002	整备介面文本	ข้อดี
+SecondaryInterface2003	整备介面文本	ร่างกายอ่อนแอ
+SecondaryInterface2004	整备介面文本	ไม่มี
+SecondaryInterface2005	整备介面文本	เปลี่ยนอุปกรณ์
+SecondaryInterface2006	整备介面文本	ไม่อนุญาตให้ออกจากทีม
+SecondaryInterface2007	整备介面文本	เตรียมการให้เสร็จสิ้น
+SecondaryInterface2008	整备介面文本	เตรียมตัว
+SecondaryInterface2009	整备介面文本	จำนวนคนที่เดินทางด้วยกันขั้นต่ำ: {0} คน
+SecondaryInterface2010	整备介面文本	เงื่อนไขชัยชนะ:
+SecondaryInterface2011	整备介面文本	เงื่อนไขความล้มเหลว:
+SecondaryInterface2012	整备介面文本	ต้องการเพื่อนร่วมทีมอีก {0} คน
+SecondaryInterface2101	存盘介面文本	เลือกบันทึกข้อมูล
+SecondaryInterface2102	存盘介面文本	เลือกอ่านข้อมูล
+SecondaryInterface2103	存盘介面文本	บันทึกบนคลาวด์
+SecondaryInterface2104	存盘介面文本	บันทึกอัตโนมัติ
+SecondaryInterface2105	存盘介面文本	ใหม่
+SecondaryInterface2106	存盘介面文本	คุณต้องการเขียนทับการบันทึกหรือไม่?
+SecondaryInterface2107	存盘介面文本	อ่านบันทึก?
+SecondaryInterface2108	存盘介面文本	อ่านบันทึก? ความคืบหน้าที่ไม่ได้บันทึกจะสูญหายไป
+SecondaryInterface2109	存盘介面文本	คุณแน่ใจหรือไม่ว่าต้องการลบบันทึก? ไฟล์ไม่สามารถกู้คืนได้หลังจากถูกลบไปแล้ว
+SecondaryInterface2110	存盘介面文本	วัน
+SecondaryInterface2111	存盘介面文本	กลางคืน
+SecondaryInterface2112	存盘介面文本	เวลาเล่นเกมทั้งหมด
+SecondaryInterface2113	存盘介面文本	ชั่วโมง
+SecondaryInterface2114	存盘介面文本	จุด
+SecondaryInterface2115	存盘介面文本	ยังไม่มีการบันทึก
+SecondaryInterface2116	存盘介面文本	ความคืบหน้าได้รับการบันทึกโดยอัตโนมัติ
+SecondaryInterface2117	存盘介面文本	บันทึกท้องถิ่น
+SecondaryInterface2118	存盘介面文本	บันทึกการต่อสู้
+SecondaryInterface2201	阅读介面文本	คุณแน่ใจหรือไม่ว่าต้องการอ่าน {0}
+SecondaryInterface2202	阅读介面文本	ไม่เป็นไปตามเงื่อนไขการฝึกอบรมและไม่สามารถอ่านหนังสือเล่มนี้ได้
+SecondaryInterface2203	阅读介面文本	เงื่อนไขการอ่าน
+SecondaryInterface2204	阅读介面文本	แนะนำ
+SecondaryInterface2205	阅读介面文本	การศึกษาเบ็ดเตล็ด
+SecondaryInterface2206	阅读介面文本	ผลการอ่าน
+SecondaryInterface2207	阅读介面文本	บทที่เหลือ
+SecondaryInterface2208	阅读介面文本	หนังสือแต่ละเล่มมีความยาวแตกต่างกันไป ซึ่งจะส่งผลต่อระยะเวลาในการอ่าน การพยายามจัดการเวลาให้ดีก็เป็นส่วนหนึ่งของการศึกษาเช่นกัน
+SecondaryInterface2209	阅读介面文本	จิตใจอ่อนแอและไม่สามารถเข้าใจเนื้อหาของคลาสสิกได้
+SecondaryInterface2301		{0} เงิน
+SecondaryInterface2302		{0}
+SecondaryInterface2401	标题画面	เล่นเกมต่อ
+SecondaryInterface2402	标题画面	เริ่มเกมใหม่
+SecondaryInterface2403	标题画面	โหลดเกม
+SecondaryInterface2404	标题画面	การตั้งค่าระบบ
+SecondaryInterface2405	标题画面	ออกจากเกม
+SecondaryInterface2406	标题画面	ความสำเร็จ
+SecondaryInterface2407	标题画面	แปลอากู๋โดย ไม่เมาไม่แปล
+SecondaryInterface2408	游戏选单TIP	กลับไปที่หน้าจอชื่อเรื่อง? ความคืบหน้าที่ไม่ได้บันทึกจะสูญหายไป
+SecondaryInterface2409	游戏选单TIP	ออกจากเกม? ความคืบหน้าที่ไม่ได้บันทึกจะสูญหายไป
+SecondaryInterface2410	游戏选单	บันทึกเกม
+SecondaryInterface2411	游戏选单	กลับไปที่ชื่อเรื่อง
+SecondaryInterface2412	游戏选单	อ่านบันทึก?
+SecondaryInterface2413	游戏标题	เวอร์ชันปัจจุบัน: {0}
+SecondaryInterface2414	选单文本	เริ่มการต่อสู้อีกครั้ง
+SecondaryInterface2415	游戏标题	คุณต้องการเริ่มการต่อสู้นี้ใหม่หรือไม่? ความคืบหน้าในปัจจุบันจะไม่ถูกเก็บไว้
+SecondaryInterface2416	开发人员名单	รายชื่อนักพัฒนา
+SecondaryInterface2501	人物状态	ลักษณะ
+SecondaryInterface2601	创角介面	ยังมีคะแนนทักษะพื้นฐาน {0} คะแนนและคุณสมบัติ {1} คะแนนที่ยังไม่ได้จัดสรร คุณแน่ใจหรือว่าต้องการออก?
+SecondaryInterface2602	创角介面	ยังมีแต้มทักษะพื้นฐานอีก {0} แต้มที่ยังไม่ได้จัดสรร คุณแน่ใจหรือไม่ว่าต้องการออก
+SecondaryInterface2603	创角介面	ยังมีคะแนนลักษณะอีก {0} แต้มที่ยังไม่ได้จัดสรร คุณแน่ใจหรือไม่ว่าต้องการออก
+SecondaryInterface2604	创角介面	ลงทะเบียนเพื่อรับเข้าเรียน
+SecondaryInterface2605	创角介面	ชาย
+SecondaryInterface2606	创角介面	หญิง
+SecondaryInterface2607	创角介面	ทักษะพื้นฐาน
+SecondaryInterface2608	创角介面	คะแนนที่สามารถแจกได้
+SecondaryInterface2609	创角介面	ความแข็งแกร่ง
+SecondaryInterface2610	创角介面	ร่างกาย
+SecondaryInterface2611	创角介面	ความชำนาญ
+SecondaryInterface2612	创角介面	จะ
+SecondaryInterface2613	创角介面	เลือกลักษณะ
+SecondaryInterface2614	创角介面	มีลักษณะ
+SecondaryInterface2615	创角介面	ลักษณะ
+SecondaryInterface2616	创角介面	คะแนนที่เหลือ
+SecondaryInterface2617	创角介面	ใช้คะแนนสะสม
+SecondaryInterface2618	创角介面力量	โจมตี 4/ป้องกัน 1/ปัดป้อง 2/พละกำลัง 1/โกรธเคือง 1
+SecondaryInterface2619	创角介面体魄	โจมตี 1/ป้องกัน 4/ตอบโต้ 2/ชี่และเลือด 4/ชี่ 2
+SecondaryInterface2620	创角介面灵巧	โจมตี 3/ป้องกัน 2/หลบ 2/พลังและเลือด 1/ชี่ 1/120 คะแนน + 1 ตารางการเคลื่อนที่ และทุกๆ 200 แต้มหลังจากนั้น + 1 ตารางการเคลื่อนไหว
+SecondaryInterface2621	创角介面意志	โจมตี 2/ป้องกัน 3/คริติคอล 2/ชี่และเลือด 2/เจิ้นฉี 3/เพิ่มความเสียหายที่เกิดจากองค์ประกอบทั้งห้าของร่างกายและร่างกาย
+SecondaryInterface2622	创角介面	เสร็จ
+SecondaryInterface2623	创角介面	กรุณากรอกชื่อของคุณ ช่องต้องไม่เว้นว่าง
+SecondaryInterface2624	创角介面	ไม่สามารถใช้ชื่อได้
+SecondaryInterface2625	创角介面	ช่วงผลกระทบของความสามารถ
+SecondaryInterface2626	创角介面	ชื่อน้อง
+SecondaryInterface2627	创角介面	กรุณากรอกชื่อและนามสกุลของคุณ โดยแต่ละรายการมีอักขระไม่เกินสองตัว
+SecondaryInterface2628	创角介面	นามสกุล
+SecondaryInterface2629	创角介面	ชื่อ
+SecondaryInterface2701	按键说明	ESC=ไปกลับ
+SecondaryInterface2702	按键说明	ENTER=ยืนยัน
+SecondaryInterface2703	按键说明	↑↓←→＝เลือกรายการ
+SecondaryInterface2801	游戏设置介面	ตั้งค่าเกม
+SecondaryInterface2802	系统设置介面	ระดับเสียงเพลง
+SecondaryInterface2803	系统设置介面	ระดับเสียงเอฟเฟกต์
+SecondaryInterface2804	系统设置介面	ภาษา
+SecondaryInterface2805	系统设置介面	ต่ำ
+SecondaryInterface2806	系统设置介面	กลาง
+SecondaryInterface2807	系统设置介面	สูง
+SecondaryInterface2808	系统设置介面	เล็ก
+SecondaryInterface2809	系统设置介面	ใหญ่
+SecondaryInterface2810	系统设置介面	จีนดั้งเดิม
+SecondaryInterface2811	系统设置介面	จีนตัวย่อ
+SecondaryInterface2812	系统设置介面	ทำการตั้งค่า
+SecondaryInterface2813	系统设置介面	เปลี่ยนกลับเป็นค่าเริ่มต้น
+SecondaryInterface2814	系统设置介面	ใช้การเปลี่ยนแปลง
+SecondaryInterface2815	系统设置介面	การเปลี่ยนแปลงบางอย่างอาจต้องรีสตาร์ทเกมจึงจะมีผล
+SecondaryInterface2816	系统设置介面	ยังไม่ได้ใช้การเปลี่ยนแปลง ออก?
+SecondaryInterface2817	系统设置介面	ตารางการต่อสู้
+SecondaryInterface2818	系统设置介面	เปิด
+SecondaryInterface2819	系统设置介面	ปิด
+SecondaryInterface2820	系统设置介面	แผนภาพความยับยั้งชั่งใจซึ่งกันและกันห้าองค์ประกอบ
+SecondaryInterface2821	系统设置介面	ต้องรีสตาร์ทการเปลี่ยนแปลงภาษาจึงจะมีผล คุณต้องการบันทึกการเปลี่ยนแปลงและปิดเกมทันทีหรือไม่?
+SecondaryInterface2822	系统设置介面	ปุ่มแสดงสถานะ
+SecondaryInterface2823	系统设置介面	ละเว้นการเคลื่อนไหว
+SecondaryInterface2824	系统设置介面	เปิด
+SecondaryInterface2825	系统设置介面	ปิด
+SecondaryInterface2826	系统设置介面	บันทึกการเปลี่ยนแปลงและปิดเกม? การเปลี่ยนแปลงบางอย่างจะถูกเรียกคืนหากเกมไม่ได้ปิด
+SecondaryInterface2827	系统设置介面	เคลื่อนที่ด้วยความเร่ง
+SecondaryInterface2828	系统设置介面	ความเร็วเดิม
+SecondaryInterface2829	系统设置介面	2 ครั้ง
+SecondaryInterface2830	系统设置介面	5 ครั้ง
+SecondaryInterface2831	系统设置介面	เลือกทิศทางในโหมดสแตนด์บาย
+SecondaryInterface2832	系统设置介面	เสียงตัวละคร
+SecondaryInterface2901	正式版声明	ผู้เล่นที่รัก ขอขอบคุณสำหรับการสนับสนุน "The Way of Chivalry" ขณะนี้ "The Way of Chivalry" เปิดตัวอย่างเป็นทางการแล้ว เราจะยังคงรักษาเกมและเตรียมพร้อมสำหรับการวางแผนขั้นต่อไป ในระหว่างเกมหาก หากคุณพบข้อบกพร่องหรือลักษณะที่ไม่น่าพึงพอใจอื่น ๆ ที่ส่งผลต่อประสบการณ์การเล่นเกม เราหวังว่าคุณจะไม่ลังเลที่จะแสดงความคิดเห็นและข้อเสนอแนะบนฟอรัม Steam, Tieba, FB และแพลตฟอร์มอื่น ๆ และเราจะซ่อมแซมและปรับปรุงเกมตามนั้น <br> เราขอขอบคุณผู้เล่นทุกคนที่สนับสนุนเราอย่างจริงใจอีกครั้ง เราหวังว่าเกมนี้จะนำความสนุกสนานและจินตนาการแห่งโลกแห่งศิลปะการต่อสู้มาให้คุณ
+SecondaryInterface2902	抢先体验声明	Heluo<br> แปลGoogleโดยFB <color=#B4D3FF>"ไม่เมาไม่แปล"</color>
+SecondaryInterface2903	抢先体验声明	กรุณากดปุ่มใดก็ได้เพื่อดำเนินการต่อ
+SecondaryInterface3001	图象设置	การตั้งค่ารูปภาพ
+SecondaryInterface3002	图象设置	โหมดหน้าต่าง
+SecondaryInterface3003	图象设置	ปณิธาน
+SecondaryInterface3004	图象设置	การตั้งค่าคุณภาพของภาพ
+SecondaryInterface3005	图象设置	เต็มจอ
+SecondaryInterface3006	图象设置	การทำหน้าต่าง
+SecondaryInterface3007	图象设置	หน้าต่างไร้ขอบ
+SecondaryInterface3008	图象设置	ขีดจำกัดของเฟรม
+SecondaryInterface3009	图象设置	30เฟรมต่อวินาที
+SecondaryInterface3010	图象设置	60FPS
+SecondaryInterface3011	图象设置	ไม่ จำกัด
+SecondaryInterface3101	按键设置	การตั้งค่าคีย์
+SecondaryInterface3102	按键设置	เลื่อนไปข้างหน้า/ขึ้นตัวเลือก/ตารางเลือกการต่อสู้
+SecondaryInterface3103	按键设置	ย้ายกลับ/ตัวเลือกลง/ตารางการเลือกการต่อสู้
+SecondaryInterface3104	按键设置	เลื่อนไปทางซ้าย/ตัวเลือกไปทางซ้าย/ต่อสู้เลือกตาราง
+SecondaryInterface3105	按键设置	เลื่อนไปทางขวา/ตัวเลือกไปทางขวา/ตารางการเลือกการต่อสู้
+SecondaryInterface3106	按键设置	ยืนยัน/โต้ตอบ
+SecondaryInterface3107	按键设置	ปิดอินเทอร์เฟซ/ส่งคืน
+SecondaryInterface3108	按键设置	สถานะตัวละคร
+SecondaryInterface3109	按键设置	การแสดงงาน
+SecondaryInterface3110	按键设置	สลับไปทางซ้ายเป็นสวิตช์เพจ/การต่อสู้เพื่อย้ายคอลัมน์
+SecondaryInterface3111	按键设置	สลับไปทางขวาเพื่อสลับไปที่การแบ่งหน้า/ต่อสู้ และสลับไปที่คอลัมน์ย้าย
+SecondaryInterface3112	按键设置	สลับช่องไปทางซ้าย/สลับตัวละครในการต่อสู้
+SecondaryInterface3113	按键设置	สลับช่องไปทางขวา/สลับตัวละครในการต่อสู้
+SecondaryInterface3114	按键设置	เมนูหลัก
+SecondaryInterface3115	按键设置	เคลื่อนที่อย่างรวดเร็ว1
+SecondaryInterface3116	按键设置	การเคลื่อนไหวอย่างรวดเร็ว 2
+SecondaryInterface3117	按键设置	เคลื่อนที่อย่างรวดเร็ว 3
+SecondaryInterface3118	按键设置	เคลื่อนที่อย่างรวดเร็ว 4
+SecondaryInterface3119	按键设置	เล่ห์เหลี่ยม
+SecondaryInterface3120	按键设置	สลับอุปกรณ์ในการต่อสู้
+SecondaryInterface3121	按键设置	ต่อสู้กับการใช้ยา
+SecondaryInterface3122	按键设置	การต่อสู้ในโหมดสแตนด์บาย
+SecondaryInterface3123	按键设置	มุมมองการต่อสู้หมุนซ้าย
+SecondaryInterface3124	按键设置	มุมมองการต่อสู้หมุนไปทางขวา
+SecondaryInterface3125	按键设置	มุมมองการต่อสู้ที่ใกล้ชิดยิ่งขึ้น
+SecondaryInterface3126	按键设置	มุมมองการต่อสู้ซูมออก
+SecondaryInterface3127	按键设置	ปุ่มซ้ายของเมาส์
+SecondaryInterface3128	按键设置	คลิกขวา
+SecondaryInterface3129	按键设置	บนจอยสติ๊กด้านซ้าย
+SecondaryInterface3130	按键设置	ลงจอยสติ๊กด้านซ้าย
+SecondaryInterface3131	按键设置	จอยสติ๊กซ้ายซ้าย
+SecondaryInterface3132	按键设置	จอยสติ๊กซ้ายขวา
+SecondaryInterface3133	按键设置	ปุ่มจับ 1
+SecondaryInterface3134	按键设置	ปุ่มจับ 2
+SecondaryInterface3135	按键设置	ปุ่มจับ 3
+SecondaryInterface3136	按键设置	ปุ่มจับ 4
+SecondaryInterface3137	按键设置	ปุ่มจับ 5
+SecondaryInterface3138	按键设置	ปุ่มจับ 6
+SecondaryInterface3139	按键设置	ปุ่มจับ 7
+SecondaryInterface3140	按键设置	ปุ่มจับ 8
+SecondaryInterface3141	按键设置	ปุ่มจับ 9
+SecondaryInterface3142	按键设置	ปุ่มจับ 10
+SecondaryInterface3143	按键设置	ปุ่มจับ 11
+SecondaryInterface3144	按键设置	ปุ่มจับ 12
+SecondaryInterface3145	按键设置	ปุ่มจับ 13
+SecondaryInterface3146	按键设置	ปุ่มจับ 14
+SecondaryInterface3147	按键设置	ปุ่มจับ 15
+SecondaryInterface3148	按键设置	ปุ่มจับ 16
+SecondaryInterface3149	按键设置	บนจอยสติ๊กด้านขวา
+SecondaryInterface3150	按键设置	โยกขวาลง
+SecondaryInterface3151	按键设置	จอยสติ๊กขวาซ้าย
+SecondaryInterface3152	按键设置	จอยสติ๊กขวาขวา
+SecondaryInterface3153	按键设置	ปุ่มหลัก
+SecondaryInterface3154	按键设置	กุญแจเสริม
+SecondaryInterface3155	按键设置	การกำหนดค่าแฮนด์
+SecondaryInterface3156	按键设置	รหัส {0} มีการใช้งานแล้ว คุณแน่ใจหรือไม่ว่าต้องการล้างการตั้งค่าทางลัดเดิมและเปลี่ยนเป็นฟังก์ชันใหม่
+SecondaryInterface3157	按键设置	ไม่ได้ตั้งค่า
+SecondaryInterface3158	按键设置	ทริกเกอร์ซ้าย/LT
+SecondaryInterface3159	按键设置	ทริกเกอร์ขวา/RT
+SecondaryInterface3160	按键设置	คุณแน่ใจหรือไม่ว่าต้องการใช้การเปลี่ยนแปลง
+SecondaryInterface3161	按键设置	คุณแน่ใจหรือไม่ว่าต้องการคืนค่าเป็นค่าเริ่มต้น
+SecondaryInterface3162	按键设置	ยังไม่ได้ใช้การเปลี่ยนแปลง คุณแน่ใจหรือไม่ว่าต้องการออก
+SecondaryInterface3163	按键设置	ไม่สามารถเปลี่ยนคีย์นี้ได้โดยใช้แป้นพิมพ์/เมาส์
+SecondaryInterface3164	按键设置	กุญแจมีการใช้งานแล้ว คุณแน่ใจหรือไม่ว่าต้องการล้างการตั้งค่าทางลัดเดิมและเปลี่ยนเป็นฟังก์ชันใหม่
+SecondaryInterface3165	按键设置	ลากปุ่มเมาส์ขวา
+SecondaryInterface3166	按键设置	ลากปุ่มเมาส์ขวา
+SecondaryInterface3167	按键设置	ล้อเมาส์ไปข้างหน้า
+SecondaryInterface3168	按键设置	ล้อเมาส์ไปข้างหลัง
+SecondaryInterface3169	按键设置	↑
+SecondaryInterface3170	按键设置	↓
+SecondaryInterface3171	按键设置	←
+SecondaryInterface3172	按键设置	→
+SecondaryInterface3173	按键设置	=+
+SecondaryInterface3174	按键设置	มุมมองการต่อสู้ขยับขึ้น
+SecondaryInterface3175	按键设置	มุมมองการต่อสู้เลื่อนลง
+SecondaryInterface3176	按键设置	มุมมองการต่อสู้เลื่อนไปทางซ้าย
+SecondaryInterface3177	按键设置	มุมมองการต่อสู้เลื่อนไปทางขวา
+SecondaryInterface3178	按键设置	พนักงานทุกคนอยู่ในโหมดสแตนด์บายได้ด้วยคลิกเดียว
+SecondaryInterface3201	MOD介面	ชื่อโมดูล
+SecondaryInterface3202	MOD介面	การเปิดใช้งาน
+SecondaryInterface3203	MOD介面	แสดงให้เห็น
+SecondaryInterface3204	MOD介面	เปิดลิ้งค์
+SecondaryInterface3205	MOD介面	เวิร์คช็อปสร้างสรรค์ STEAM
+SecondaryInterface3206	MOD介面	ใช้โมดูล
+SecondaryInterface3207	MOD介面	โมดูลนี้ขัดแย้งกับเวอร์ชันปัจจุบันและอาจทำให้เกมล่ม คุณต้องการใช้หรือไม่
+SecondaryInterface3208	MOD介面	คุณแน่ใจหรือไม่ว่าต้องการเปิดหน้าที่เชื่อมโยง?
+SecondaryInterface3209	MOD介面	คุณแน่ใจหรือไม่ว่าต้องการเข้าร่วมเวิร์คช็อปสร้างสรรค์ STEAM?
+SecondaryInterface3210	MOD介面	โมดูลนี้จำเป็นต้องรีสตาร์ทเกมจึงจะมีผล คุณแน่ใจหรือไม่ว่าต้องการรีสตาร์ท
+SecondaryInterface3301	MOVIE加速	เร่งความเร็วในการเล่น
+SecondaryInterface3302	MOVIE加速	เล่นด้วยความเร็วปกติ
+SecondaryInterface3401	操作说明	=กลับมา
+SecondaryInterface3402	操作说明	=ยืนยัน
+SecondaryInterface3403	操作说明	=เลือกรายการ
+SecondaryInterface3404	操作说明	=สลับแท็บหลัก
+SecondaryInterface3405	操作说明	=สลับเพจรอง
+SecondaryInterface3406	操作说明	=การเลือกจำนวน
+SecondaryInterface3501	按键符号	Esc
+SecondaryInterface3502	按键符号	
+SecondaryInterface3503	按键符号	,
+SecondaryInterface3504	按键符号	- -
+SecondaryInterface3505	按键符号	.
+SecondaryInterface3506	按键符号	/
+SecondaryInterface3507	按键符号	0
+SecondaryInterface3508	按键符号	1
+SecondaryInterface3509	按键符号	2
+SecondaryInterface3510	按键符号	3
+SecondaryInterface3511	按键符号	4
+SecondaryInterface3512	按键符号	5
+SecondaryInterface3513	按键符号	6
+SecondaryInterface3514	按键符号	7
+SecondaryInterface3515	按键符号	8
+SecondaryInterface3516	按键符号	9
+SecondaryInterface3517	按键符号	;
+SecondaryInterface3518	按键符号	=
+SecondaryInterface3519	按键符号	[
+SecondaryInterface3520	按键符号	\
+SecondaryInterface3521	按键符号	]
+SecondaryInterface3522	按键符号	~
+SecondaryInterface3523	按键符号	แป้นตัวเลข 0
+SecondaryInterface3524	按键符号	แป้นตัวเลข 1
+SecondaryInterface3525	按键符号	แป้นตัวเลข 2
+SecondaryInterface3526	按键符号	แป้นตัวเลข 3
+SecondaryInterface3527	按键符号	แป้นตัวเลข 4
+SecondaryInterface3528	按键符号	แป้นตัวเลข 5
+SecondaryInterface3529	按键符号	แป้นตัวเลข 6
+SecondaryInterface3530	按键符号	แป้นตัวเลข 7
+SecondaryInterface3531	按键符号	แป้นตัวเลข 8
+SecondaryInterface3532	按键符号	แป้นตัวเลข 9
+SecondaryInterface3533	按键符号	แป้นตัวเลข
+SecondaryInterface3534	按键符号	แป้นตัวเลข/
+SecondaryInterface3535	按键符号	แป้นตัวเลข*
+SecondaryInterface3536	按键符号	ตัวเลข -
+SecondaryInterface3537	按键符号	แป้นตัวเลข+
+SecondaryInterface3538	按键符号	แป้นตัวเลขเข้า
+SecondaryInterface3539	按键符号	ตัวเลข =
+SecondaryInterface3540	按键符号	↑
+SecondaryInterface3541	按键符号	↓
+SecondaryInterface3542	按键符号	→
+SecondaryInterface3543	按键符号	←
+SecondaryInterface3601	战斗胜败介面	เงื่อนไขชัยชนะ:
+SecondaryInterface3602	战斗胜败介面	เงื่อนไขความล้มเหลว:
+SecondaryInterface3603	战斗胜败介面	เป้าหมายรอง:
+SecondaryInterface3604	战斗胜败介面：次要目标未达成格式	-{0} (ไม่สำเร็จ)
+SecondaryInterface3605	战斗胜败介面：次要目标已达成格式	-{0} (บรรลุแล้ว)
+SecondaryInterface3606	战斗胜败介面：次要目标失败格式	-{0} (ล้มเหลว)
+SecondaryInterface3607	战斗胜败介面：胜利tip格式	<color=#B4D3FF><size=21>✓</size>.{0}</color>
+SecondaryInterface3608	战斗胜败介面：失败tip格式	<color=#FF9E9E><size=21>✗</size>.{0}</color>
+SecondaryInterface3609	战斗胜败介面：主要目标	เป้าหมายหลัก:
+SecondaryInterface3701	百科介面	เซี่ยซ่อนบันทึกเบ็ดเตล็ด
+SecondaryInterface3702	百科介面	การสอน
+SecondaryInterface3703	百科介面	รูป
+SecondaryInterface3704	百科介面	เกร็ดเล็กเกร็ดน้อย
+SecondaryInterface3705	百科介面	ศิลปะการต่อสู้
+SecondaryInterface3706	百科介面	ความทะเยอทะยานอันกล้าหาญและสูงส่ง
+SecondaryInterface3707	百科介面	The Way of Chivalry เป็นเกมพัฒนาที่มีธีมของสถาบันศิลปะการต่อสู้ คุณต้องใช้ความสามารถของคุณเองในรอบที่จำกัดเพื่อไล่ตามศิลปะการต่อสู้ขั้นสูง หรือคุณสามารถฝึกฝนกับเพื่อนของคุณและสำรวจความกล้าหาญร่วมกันเพื่อจัดการกับความวุ่นวายในโลกที่ตามมา <br>หากคุณพบคำถามใดๆ ในระหว่างนี้ คุณสามารถอ่านรายการที่เกี่ยวข้องเพื่อค้นหาคำตอบได้
+SecondaryInterface3801	百科介面	ปีแรก
+SecondaryInterface3802	百科介面	ปีที่สอง
+SecondaryInterface3803	百科介面	ปีที่สาม
+SecondaryInterface3804	百科介面	ฤดูใบไม้ผลิ
+SecondaryInterface3805	百科介面	ฤดูร้อน
+SecondaryInterface3806	百科介面	ฤดูใบไม้ร่วง
+SecondaryInterface3807	百科介面	ฤดูหนาว
+SecondaryInterface3808	百科介面	คะแนน: ปานกลาง
+SecondaryInterface3809	百科介面	เกรด: สูง
+SecondaryInterface3810	百科介面	คะแนน: พิเศษ
+SecondaryInterface3901	难度选择介面	การเลือกความยากลำบาก
+SecondaryInterface3902	难度选择介面	สถานการณ์สิ้นหวัง
+SecondaryInterface3903	难度选择介面	อันตราย
+SecondaryInterface3904	难度选择介面	เหลา
+SecondaryInterface3905	难度选择介面	ที่ไร้กังวล
+SecondaryInterface3906	难度选择介面	การต่อสู้นั้นยากขึ้น และศัตรูก็จะใช้วิธีการที่มีประสิทธิภาพและโหดเหี้ยมที่สุด
+SecondaryInterface3907	难度选择介面	ความยากในการต่อสู้นั้นสูงและเหมาะสำหรับผู้เล่นที่คุ้นเคยกับการจัดการเทิร์น พัฒนากลยุทธ์ และชอบที่จะไล่ตามความท้าทายเพิ่มเติม
+SecondaryInterface3908	难度选择介面	ความยากในการต่อสู้เป็นเรื่องปกติและเหมาะสำหรับผู้เล่นที่มีแนวคิดพื้นฐานในการจัดการเทิร์นและการพัฒนากลยุทธ์ ขอแนะนำให้เลือกความยากนี้เมื่อเล่นครั้งแรก
+SecondaryInterface3909	难度选择介面	ความยากในการต่อสู้ต่ำเหมาะสำหรับผู้เล่นที่ต้องการเข้าใจเนื้อเรื่องได้อย่างราบรื่น
+SecondaryInterface3910	难度选择介面	ความยากจะไม่ส่งผลต่อโครงเรื่องและองค์ประกอบที่ซ่อนอยู่ ในระหว่างเกม ความยากไม่สามารถเปลี่ยนแปลงได้! คุณแน่ใจหรือว่าต้องการเล่นเกมในระดับความยาก {0}?
+SecondaryInterface4001	战斗布阵	ปรับใช้บทบาทการต่อสู้
+SecondaryInterface4002	战斗布阵	จำนวนคนที่ปรับใช้ได้
+SecondaryInterface4003	战斗布阵	ปรับใช้แล้ว
+SecondaryInterface4004	战斗布阵	การปรับใช้เสร็จสมบูรณ์
+SecondaryInterface4005	战斗布阵	มีสถานที่ว่างสำหรับการจัดวางกำลัง {0} แห่ง คุณต้องการเข้าร่วมการต่อสู้หรือไม่?
+SecondaryInterface4006	战斗布阵	คุณเสร็จสิ้นการจัดวางและเข้าสู่การต่อสู้แล้วหรือยัง?
+SecondaryInterface4007	战斗布阵	จำนวนผู้เข้าร่วมถึงขีดจำกัดการใช้งานแล้ว
+SecondaryInterface4008	战斗布阵	ปุ่มเพื่อเลือกบทบาท
+SecondaryInterface4009	战斗布阵	ตำแหน่งการเลือกคีย์
+SecondaryInterface4010	战斗布阵	เข้ารับการตรวจสอบ
+SecondaryInterface4011	战斗布阵	ดูข้อมูลตัวละครในสนาม
+SecondaryInterface4012	战斗布阵	เหลืออักขระ {0} ตัวที่ต้องรอใช้งาน
+SecondaryInterface4013	战斗布阵	ปุ่มเพื่อเลือกทิศทาง
+SecondaryInterface4020	传书介面机关人替换文本肯定	..........
+SecondaryInterface4021	传书介面机关人替换文本否定	......................
+ta02004001	互动介面	เข้า
+ta02004002	互动介面	บทสนทนา
+ta02004003	互动介面	ใช้
+ta02004004	互动介面	ตรวจสอบ
+ta02004005	互动介面	ฝึกฝน
+ta02004006	互动介面	ศึกษา
+ta02004007	互动介面	เอา
+ta02004008	互动介面	การสืบสวน
+ta03003001	地名	อู๋เซี่ยถาง
+Unit_First	单位(第)	เลขที่
+Unit_Month	单位(月)	ดวงจันทร์
+Unit_Year	单位(年)	ปี

@@ -1,0 +1,526 @@
+{
+  "Id": "bs5201112_00",
+  "Name": "",
+  "Infos": [
+    {
+      "Index": 0,
+      "Node": "{ \"BattleEventNode\" : 100, 0, [ ]} ",
+      "Next": 1,
+      "Prallel": -1,
+      "Child": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Index": 1,
+      "Node": "{ \"ExecuteOnceNode\" } ",
+      "Next": 2,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 2,
+      "Node": "{ \"BattleResultAddUnit\" : \"in05364\", 0, 200202102, 1.00000, 0.00000} ",
+      "Next": 3,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 3,
+      "Node": "{ \"BattleResultAddUnit\" : \"in05365\", 1, 200102202, 1.00000, 0.00000} ",
+      "Next": -1,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 4,
+      "Node": "{ \"BattleEventNode\" : 200, 0, [ ]} ",
+      "Next": 5,
+      "Prallel": -1,
+      "Child": [
+        5
+      ]
+    },
+    {
+      "Index": 5,
+      "Node": "{ \"StepByStepNode\" : [ ]} ",
+      "Next": 6,
+      "Prallel": -1,
+      "Child": [
+        6,
+        7,
+        54,
+        48,
+        50,
+        49,
+        51,
+        52,
+        53,
+        55,
+        56,
+        57,
+        60,
+        59,
+        58,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        63,
+        19,
+        61,
+        20,
+        21
+      ]
+    },
+    {
+      "Index": 6,
+      "Node": "{ \"BattleFactorTurn\" : 1, 0} ",
+      "Next": 7,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 7,
+      "Node": "{ \"ExecuteOnceNode\" } ",
+      "Next": 54,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 8,
+      "Node": "{ \"BattleResultTalk\" : \"t5201112_016\"} ",
+      "Next": 9,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 9,
+      "Node": "{ \"BattleResultAddUnit\" : \"in0103\", 3, 104104208, 1.00000, 0.00000} ",
+      "Next": 10,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 10,
+      "Node": "{ \"BattleResultUnitToUnit\" : \"in0103\", \"in05365\"} ",
+      "Next": 11,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 11,
+      "Node": "{ \"BattleResultTalk\" : \"t5201112_019\"} ",
+      "Next": 12,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 12,
+      "Node": "{ \"BattleResultAddUnit\" : \"Player\", 0, 102106208, 1.00000, 0.00000} ",
+      "Next": 13,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 13,
+      "Node": "{ \"BattleResultUnitToUnit\" : \"Player\", \"in0103\"} ",
+      "Next": 14,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 14,
+      "Node": "{ \"BattleResultTalk\" : \"t5201112_023\"} ",
+      "Next": 15,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 15,
+      "Node": "{ \"BattleResultUnitHP\" : 0, 100, \"in05364,in05365\"} ",
+      "Next": 16,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 16,
+      "Node": "{ \"BattleResultTalk\" : \"t5201112_029\"} ",
+      "Next": 17,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 17,
+      "Node": "{ \"BattleResultAddBuff\" : True, \"in05364\", \"bt5201112_buff_BetterStudentAttack\", True} ",
+      "Next": 18,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 18,
+      "Node": "{ \"BattleResultTalk\" : \"t5201112_031\"} ",
+      "Next": 63,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 19,
+      "Node": "{ \"SetGlobalFlagBattleAction\" : \"fe5201112_2_06\", 0, 2, \"王青阳缺省存活（成绩单）\"} ",
+      "Next": 61,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 20,
+      "Node": "{ \"BattleResultChangeWinTip\" : \"Defeat Zhong Ruoxin and Wei Lengfan\"} ",
+      "Next": 21,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 21,
+      "Node": "{ \"BattleResultChangeLoseTip\" : \"{name_1} {name_2} and Junior Brother Wang Qingyang were defeated\"} ",
+      "Next": -1,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 22,
+      "Node": "{ \"BattleEventNode\" : 400, 0, [ ]} ",
+      "Next": 23,
+      "Prallel": -1,
+      "Child": [
+        23
+      ]
+    },
+    {
+      "Index": 23,
+      "Node": "{ \"StepByStepNode\" : [ ]} ",
+      "Next": 24,
+      "Prallel": -1,
+      "Child": [
+        24,
+        25,
+        26,
+        28,
+        29,
+        27
+      ]
+    },
+    {
+      "Index": 24,
+      "Node": "{ \"BattleFactorTargetDestroy\" : \"in0103,in05365\"} ",
+      "Next": 25,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 25,
+      "Node": "{ \"ExecuteOnceNode\" } ",
+      "Next": 26,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 26,
+      "Node": "{ \"BattleResultTalk\" : \"t5201112_036\"} ",
+      "Next": 28,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 27,
+      "Node": "{ \"EndBattleAction\" : \"m5201112_02\"} ",
+      "Next": -1,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 28,
+      "Node": "{ \"SetLocalFlagBattleAction\" : \"btf5201112_00\", 0, 1, \"\"} ",
+      "Next": 29,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 29,
+      "Node": "{ \"SetGlobalFlagBattleAction\" : \"fe5201112_2_03\", 0, 1, \"战斗胜利\"} ",
+      "Next": 27,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 30,
+      "Node": "{ \"BattleEventNode\" : 400, 2, [ ]} ",
+      "Next": 31,
+      "Prallel": -1,
+      "Child": [
+        31
+      ]
+    },
+    {
+      "Index": 31,
+      "Node": "{ \"StepByStepNode\" : [ ]} ",
+      "Next": 32,
+      "Prallel": -1,
+      "Child": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "Index": 32,
+      "Node": "{ \"BattleFactorLocalFlag\" : 1, 1, \"btf5201112_98\", \"{name_1} {name_2} dies\"} ",
+      "Next": 33,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 33,
+      "Node": "{ \"BattleFactorLocalFlag\" : 1, 1, \"btf5201112_99\", \"王青阳死亡\"} ",
+      "Next": 34,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 34,
+      "Node": "{ \"ExecuteOnceNode\" } ",
+      "Next": 35,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 35,
+      "Node": "{ \"BattleResultTalk\" : \"t5201112_046\"} ",
+      "Next": 36,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 36,
+      "Node": "{ \"EndBattleAction\" : \"m5201112_02\"} ",
+      "Next": -1,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 37,
+      "Node": "{ \"BattleEventNode\" : 400, 1, [ ]} ",
+      "Next": 38,
+      "Prallel": -1,
+      "Child": [
+        38
+      ]
+    },
+    {
+      "Index": 38,
+      "Node": "{ \"StepByStepNode\" : [ ]} ",
+      "Next": 39,
+      "Prallel": -1,
+      "Child": [
+        39,
+        40,
+        41,
+        62
+      ]
+    },
+    {
+      "Index": 39,
+      "Node": "{ \"BattleFactorTargetDestroy\" : \"Player\"} ",
+      "Next": 40,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 40,
+      "Node": "{ \"ExecuteOnceNode\" } ",
+      "Next": 41,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 41,
+      "Node": "{ \"SetLocalFlagBattleAction\" : \"btf5201112_98\", 0, 1, \"{name_1} {name_2} dies\"} ",
+      "Next": 62,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 42,
+      "Node": "{ \"BattleEventNode\" : 400, 0, [ ]} ",
+      "Next": 43,
+      "Prallel": -1,
+      "Child": [
+        43
+      ]
+    },
+    {
+      "Index": 43,
+      "Node": "{ \"StepByStepNode\" : [ ]} ",
+      "Next": 44,
+      "Prallel": -1,
+      "Child": [
+        44,
+        45,
+        46,
+        47
+      ]
+    },
+    {
+      "Index": 44,
+      "Node": "{ \"BattleFactorTargetDestroy\" : \"in05364\"} ",
+      "Next": 45,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 45,
+      "Node": "{ \"ExecuteOnceNode\" } ",
+      "Next": 46,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 46,
+      "Node": "{ \"SetLocalFlagBattleAction\" : \"btf5201112_99\", 0, 1, \"王青阳死亡\"} ",
+      "Next": 47,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 47,
+      "Node": "{ \"SetGlobalFlagBattleAction\" : \"fe5201112_2_06\", 0, 1, \"王青阳死亡（成绩单）\"} ",
+      "Next": -1,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 48,
+      "Node": "{ \"BattleResultMoveUnit\" : \"in05364\", \"200101201\"} ",
+      "Next": 50,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 49,
+      "Node": "{ \"BattleResultRemoveUnit\" : \"in05365\", False} ",
+      "Next": 51,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 50,
+      "Node": "{ \"BattleResultAddBuff\" : True, \"in05365\", \"\", False} ",
+      "Next": 49,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 51,
+      "Node": "{ \"BattleResultAddUnit\" : \"in05365\", 1, 201103202, 1.00000, 0.00000} ",
+      "Next": 52,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 52,
+      "Node": "{ \"BattleResultAddBuff\" : True, \"in05365\", \"\", True} ",
+      "Next": 53,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 53,
+      "Node": "{ \"BattleResultPlayAction\" : \"in05364\", \"skill_MA0001_a02\", 0.00000} ",
+      "Next": 55,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 54,
+      "Node": "{ \"BattleResultTalk\" : \"t5201112_077\"} ",
+      "Next": 48,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 55,
+      "Node": "{ \"BattleResultTalk\" : \"t5201112_081\"} ",
+      "Next": 56,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 56,
+      "Node": "{ \"BattleResultUnitToUnit\" : \"in05365\", \"in05364\"} ",
+      "Next": 57,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 57,
+      "Node": "{ \"BattleResultPlayAction\" : \"in05365\", \"skill_MA0001_a02\", 0.00000} ",
+      "Next": 60,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 58,
+      "Node": "{ \"BattleResultPlayAction\" : \"in05364\", \"m_kneel11_await00\", 0.00000} ",
+      "Next": 8,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 59,
+      "Node": "{ \"BattleResultUnitHP\" : 0, 30, \"in05364\"} ",
+      "Next": 58,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 60,
+      "Node": "{ \"BattleResultAddBuff\" : True, \"in05364\", \"\", False} ",
+      "Next": 59,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 61,
+      "Node": "{ \"SetGlobalFlagBattleAction\" : \"fe5201112_2_04\", 0, 1, \"玩家缺省存活（成绩单）\"} ",
+      "Next": 20,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 62,
+      "Node": "{ \"SetGlobalFlagBattleAction\" : \"fe5201112_2_04\", 0, 2, \"{name_1} {name_2} dies（成绩单）\"} ",
+      "Next": -1,
+      "Prallel": -1,
+      "Child": []
+    },
+    {
+      "Index": 63,
+      "Node": "{ \"BattlChanageFaction\" : 1, \"in0103\"} ",
+      "Next": 19,
+      "Prallel": -1,
+      "Child": []
+    }
+  ],
+  "Remark": "",
+  "WinTip": "",
+  "LoseTip": ""
+}

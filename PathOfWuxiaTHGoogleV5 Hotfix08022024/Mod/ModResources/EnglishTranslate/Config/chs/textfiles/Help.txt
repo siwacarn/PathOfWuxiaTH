@@ -1,0 +1,38 @@
+page1_main001	Teaching	True		แนวคิดพื้นฐาน	0			
+page1_main001_sub001	Teaching	False	page1_main001	การดำเนินงานขั้นพื้นฐาน	0			page1_main001_sub001_01
+page1_main001_sub002	Teaching	False	page1_main001	ค่าตัวเลข - ที่เกี่ยวข้องกับการต่อสู้	0			page1_main001_sub002_01
+page1_main001_sub003	Teaching	False	page1_main001	เกี่ยวข้องกับการเลี้ยงดูเชิงตัวเลข	0			page1_main001_sub003_01
+page1_main001_sub004	Teaching	False	page1_main001	การจำแนกศิลปะการต่อสู้และอาวุธ	0			page1_main001_sub004_01
+page1_main001_sub005	Teaching	False	page1_main001	เปลี่ยนศิลปะการต่อสู้และเทคนิคทางจิต	0			page1_main001_sub005_01
+page1_main001_sub006	Teaching	False	page1_main001	เปลี่ยนอุปกรณ์	0			page1_main001_sub006_01
+page1_main001_sub007	Teaching	False	page1_main001	การใช้ยา	0			page1_main001_sub007_01
+page1_main001_sub008	Teaching	False	page1_main001	ส่องสัมภาระ	0			page1_main001_sub008_01
+page1_main002	Teaching	True		คำแนะนำการพัฒนา	0			
+page1_main002_sub001	Teaching	False	page1_main002	คำแนะนำการพัฒนา	0			page1_main002_sub001_01
+page1_main002_sub002	Teaching	False	page1_main002	เวลาก้าวหน้า	0			page1_main002_sub002_01
+page1_main002_sub003	Teaching	False	page1_main002	วิญญาณ	0			page1_main002_sub003_01
+page1_main002_sub004	Teaching	False	page1_main002	สถานะ	0			page1_main002_sub004_01
+page1_main002_sub005	Teaching	False	page1_main002	ออกกำลังกาย	0			page1_main002_sub005_01
+page1_main002_sub006	Teaching	False	page1_main002	ฝึกศิลปะการต่อสู้	0			page1_main002_sub006_01
+page1_main002_sub007	Teaching	False	page1_main002	ความบันเทิง	0			page1_main002_sub007_01
+page1_main002_sub008	Teaching	False	page1_main002	ทำความรู้จักกับเพื่อน	0			page1_main002_sub008_01
+page1_main002_sub009	Teaching	False	page1_main002	ทำธุระ	0			page1_main002_sub009_01
+page1_main002_sub010	Teaching	False	page1_main002	พักผ่อน	0			page1_main002_sub010_01
+page1_main003	Teaching	True		สิ่งอำนวยความสะดวกและการสื่อสาร	0			
+page1_main003_sub001	Teaching	False	page1_main003	ส่งจดหมาย	0			page1_main003_sub001_01
+page1_main003_sub002	Teaching	False	page1_main003	ประกาศหลักสูตร	0			page1_main003_sub002_01
+page1_main003_sub003	Teaching	False	page1_main003	ศาลาคัมภีร์ทิเบต	0			page1_main003_sub003_01
+page1_main003_sub004	Teaching	False	page1_main003	ไป๋เกา หลู	0			page1_main003_sub004_01
+page1_main003_sub005	Teaching	False	page1_main003	ร้านช่างตีเหล็ก	0			page1_main003_sub005_01
+page1_main003_sub006	Teaching	False	page1_main003	ต้าเจียงหนานเป่ยผู	0			page1_main003_sub006_01
+page1_main003_sub007	Teaching	False	page1_main003	โรงจำนำ	0			page1_main003_sub007_01
+page1_main004	Teaching	True		คำอธิบายการต่อสู้	0			
+page1_main004_sub001	Teaching	False	page1_main004	อินเทอร์เฟซและปุ่มต่างๆ	0	page1_main004_sub001		page1_main004_sub001_01
+page1_main004_sub002	Teaching	False	page1_main004	เคลื่อนไหว	0			page1_main004_sub001_02
+page1_main004_sub003	Teaching	False	page1_main004	ช่วงการควบคุม (ZOC)	0			page1_main004_sub003_01
+page1_main004_sub004	Teaching	False	page1_main004	การโจมตีด้านหลังและการโจมตีด้านข้าง	0			page1_main004_sub004_01
+page1_main004_sub005	Teaching	False	page1_main004	สถานะเชิงบวกและเชิงลบ	0			page1_main004_sub005_01
+page1_main004_sub006	Teaching	False	page1_main004	ร่างฆ้องและธาตุทั้งห้าขัดแย้งกัน	0			page1_main004_sub006_01
+page1_main004_sub007	Teaching	False	page1_main004	ย้ายข้อมูล	0			page1_main004_sub007_01
+page1_main004_sub008	Teaching	False	page1_main004	ทริกเกอร์เอฟเฟกต์	0			page1_main004_sub008_01
+page1_main004_sub009	Teaching	False	page1_main004	การปรับเค้าโครงและทิศทาง	0			page1_main004_sub009_01
